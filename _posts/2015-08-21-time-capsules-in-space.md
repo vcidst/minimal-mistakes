@@ -1,6 +1,4 @@
 ---
-title: Time Capsules in Space
-defaults:
   # _posts
   - scope:
       path: ""

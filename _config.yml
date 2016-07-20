@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shailendra"
+title                    : "Shailendra Paliwal"
 title_separator          : "-"
-name                     : &name "Shailendra Paliwal"
+name                     : &name "Shailendra"
 description              : &description "A repository of essays by Shailendra"
 url                      : http://vcidst.github.io 
 baseurl                  : # the subpath of your site, e.g. "/blog"
