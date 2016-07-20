@@ -1,5 +1,5 @@
 ---
-title: "Time Capsules in Space"
+title: "Probably Not An Alien Megastructure"
 categories:
   - Essays
 tags:

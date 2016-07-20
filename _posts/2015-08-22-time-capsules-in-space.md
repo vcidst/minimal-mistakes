@@ -7,7 +7,6 @@ tags:
   - space
 ---
 
-
 We have sent physical objects out to great distances, with them are also attached messages for anything that finds it ever. If I may quote Douglas Adams,
 
 > "Space," it says, "is big. Really big. You just won't believe how vastly, hugely, mindbogglingly big it is. I mean, you may think it's a long way down the road to the chemist, but that's just peanuts to space. Listen..."

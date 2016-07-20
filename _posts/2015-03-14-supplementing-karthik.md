@@ -1,5 +1,5 @@
 ---
-title: "Time Capsules in Space"
+title: "Exploring ggplot2 with Karthik Ram's Talk"
 categories:
   - Essays
 tags:
