@@ -11,7 +11,7 @@ title                    : "Shailendra"
 title_separator          : "-"
 name                     : &name "Shailendra Paliwal"
 description              : &description "A repository of essays by Shailendra"
-url                      : https://shailendra.me 
+url                      : http://vcidst.github.io 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  : "https://github.com/vcidst/vcidst.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
