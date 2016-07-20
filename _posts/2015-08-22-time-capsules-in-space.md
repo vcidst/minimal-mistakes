@@ -5,13 +5,16 @@ categories:
 tags:
   - essay
   - space
+excerpt: "Voyager 1 space probe was launched in 1977 since then it is headed outwards of the solar system. Next year marks 50th aniversary of Voyager launch, it is yet to leave the solar system."
 ---
 
-We have sent physical objects out to great distances, with them are also attached messages for anything that finds it ever. If I may quote Douglas Adams,
+How far can we reach in outer space? We have sent physical objects out to great distances, with them are also attached messages for anything that finds it ever.
 
 > "Space," it says, "is big. Really big. You just won't believe how vastly, hugely, mindbogglingly big it is. I mean, you may think it's a long way down the road to the chemist, but that's just peanuts to space. Listen..."
 
-Still, space is really really huge. One of humanity's very first attempts to send something far in space was the Pioneer 10 probe. It was a magnificent engineering marvel launched in 1972 powered with a 155W radioisotope thermoelectric generator. The engine was indeed right out of science fiction. It used an array of thermocouples to generate electricity with the decay heat from a radioactive material at one end. This was an idea suggested by Arthur C. Clarke in the same letter he suggested geostationary satellites in what is called Clarke Orbit today, back in 1945. Pioneer space probes were sent to prepare NASA for Voyager. These programs were born out of Mariner Space Program. The ten vehicles of Mariner series were "robotic interplanetary space probes designed to investigate Mercury, Venus and Mars". They had small mission duration (less than a year) and were declared defunct before being set off in a heliocentric orbit.
+- Douglas Adams (The Hitcherhiker's Guide to the Galaxy)
+
+Still, space is really really huge. One of humanity's very first attempts to send something far in space was the Pioneer 10 probe. It was a magnificent engineering marvel launched in 1972 powered with a 155W radioisotope thermoelectric generator. The engine was indeed right out of science fiction. It used an array of thermocouples to generate electricity with the decay heat from a radioactive material at one end. This was an idea suggested by the science fiction writer, Arthur C. Clarke in the same letter he suggested geostationary satellites in what is called Clarke Orbit today, back in 1945. Pioneer space probes were sent to prepare NASA for Voyager. These programs were born out of Mariner Space Program. The ten vehicles of Mariner series were "robotic interplanetary space probes designed to investigate Mercury, Venus and Mars". They had small mission duration (less than a year) and were declared defunct before being set off in a heliocentric orbit.
 
 The communication with Pioneer was lost in 2003 after it was in service for more than 30 years and 80 AU away. To put things in perspective, it was originally supposed to be a 21-month mission. The failure was caused due to transmitter not being able to receive adequate power for transmission of signals. James A. Van Allen announced the termination of mission on 20th February, 2003 which mentions: 
 
@@ -20,10 +23,10 @@ The communication with Pioneer was lost in 2003 after it was in service for more
 The space probe carries an aluminum plaque with a pictogram. The plaque is intended for, if ever, Pioneer is intercepted by alien lifeforms. It is a combination of pictorial messages that show nude human figures and their relative size with Pioneer, our relative position in the galaxy, transition states of hydrogen atom, and trajectory of Pioneer in the solar system.
 
 ![Titties in the Interstellar Space](/images/pioneer-plaque.jpg)
+<br />
 *Pioneer 10 Plaque*
 
-![The Voyager Program Golden Record - Images](/images/goldenrecord.jpg)
-{: .image-pull-right}
+<img style="float: right;" src="/images/goldenrecord.jpg">
 
 Voyager's Golden Record is another space analogue of bottled messages. A time capsule sent in the vastness of space attached to a man-made contrivance. Voyager, like Pioneer, will soon turn into a lump of metal. The chances of anyone ever encountering or yet, seeing it are staggeringly low. Voyager 1 or 2 will not be able to power any single on-board after 2030. Voyager probes are also powered by radioisotope thermoelectric generators, I am not sure if the alpha decay of plutonium oxide spheres is at any special frequencies in that void.
 
