@@ -11,8 +11,8 @@ title                    : "Shailendra"
 title_separator          : "-"
 name                     : &name "Shailendra Paliwal"
 description              : &description "A repository of essays by Shailendra"
-url                      : https://shailendra.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/" # the subpath of your site, e.g. "/blog"
+url                      : https://shailendra.me 
+baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  : "https://github.com/vcidst/vcidst.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
