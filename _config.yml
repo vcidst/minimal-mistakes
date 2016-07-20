@@ -69,7 +69,7 @@ author:
   bio              : "Interested in intersections of technology, math, culture and history"
   location         : "Udaipur"
   email            : "hello@shailendra.me"
-  uri              : "https://mademistakes.com"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -84,7 +84,7 @@ author:
   linkedin         :
   pinterest        :
   soundcloud       :
-  stackoverflow    : http://stackoverflow.com/users/5238084/volis
+  stackoverflow    : "http://stackoverflow.com/users/5238084/volis"
   steam            :
   tumblr           :
   twitter          : *twitter
