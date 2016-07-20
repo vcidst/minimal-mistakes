@@ -65,7 +65,7 @@ google_ad_slot           :
 # Site Author
 author:
   name             : *name
-  avatar           : "bio-photo.jpg"
+  avatar           : bio-photo.jpg
   bio              : "Interested in intersections of technology, math, culture and history"
   location         : "Udaipur"
   email            : "hello@shailendra.me"
