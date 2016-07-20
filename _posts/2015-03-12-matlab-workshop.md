@@ -13,8 +13,6 @@ defaults:
       related: true
 ---
 
-{% include _toc.html %}
-
 My department recently helped organize a workshop on image processing using Matlab's Image Processing and Image Acquisition toolbox. Around 50 students paid 400 INR to attend this two day workshop. Our instructor for these two days was Mr. Saurabh Bhardwaj from TechieNest.
 
 I found the overall experience from these two days to be a lot underwhelming considering a lot of reasons. Before I go into the reasons and comment on the quality of it, I will encourage you to go through the notes to get an idea of teaching standards maintained at lower-tier engineering colleges in the country. My notes were typed during the workshop as-is.

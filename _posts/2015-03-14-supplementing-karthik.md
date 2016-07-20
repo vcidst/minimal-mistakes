@@ -13,8 +13,6 @@ defaults:
       related: true
 ---
 
-{% include _toc.html %}
-
 I have lately been learning a couple of tools for data science. After hearing about ggplot2, I came across Karthik Ram's talk about **Data Visualization with R & ggplot2**. It's an excellent talk to introduce yourself to ggplot2. This post will discuss the solutions to the exercises in the talk. Karthik is an ecologist at UC Berkeley and this talk was presented at an R seminar for Integrative Biology students.
 
 <script async class="speakerdeck-embed" data-id="ce4889d0822701304e2812313d0544b5" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
