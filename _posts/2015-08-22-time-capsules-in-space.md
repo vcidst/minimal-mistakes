@@ -1,7 +1,7 @@
 ---
 title: "Time Capsules in Space"
 header:
-  image: solar-system-log-arithmic.jpg
+  image: solar-system-logarithmic.jpg
   caption: "Illustration credit: [**Schiller Institute**](http://newparadigm.schillerinstitute.com/our-campaign/sde/)"
 categories:
   - Essays
