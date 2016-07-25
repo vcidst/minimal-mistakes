@@ -1,5 +1,8 @@
 ---
 title: "Time Capsules in Space"
+header:
+  image: solar-system-log-arithmic.jpg
+  caption: "Illustration credit: [**Schiller Institute**](http://newparadigm.schillerinstitute.com/our-campaign/sde/)"
 categories:
   - Essays
 tags:
@@ -12,7 +15,7 @@ How far can we reach in outer space? We have sent physical objects out to great 
 
 > "Space," it says, "is big. Really big. You just won't believe how vastly, hugely, mindbogglingly big it is. I mean, you may think it's a long way down the road to the chemist, but that's just peanuts to space. Listen..."
 
-- Douglas Adams (The Hitcherhiker's Guide to the Galaxy)
+-- Douglas Adams (The Hitcherhiker's Guide to the Galaxy)
 
 Still, space is really really huge. One of humanity's very first attempts to send something far in space was the Pioneer 10 probe. It was a magnificent engineering marvel launched in 1972 powered with a 155W radioisotope thermoelectric generator. The engine was indeed right out of science fiction. It used an array of thermocouples to generate electricity with the decay heat from a radioactive material at one end. This was an idea suggested by the science fiction writer, Arthur C. Clarke in the same letter he suggested geostationary satellites in what is called Clarke Orbit today, back in 1945. Pioneer space probes were sent to prepare NASA for Voyager. These programs were born out of Mariner Space Program. The ten vehicles of Mariner series were "robotic interplanetary space probes designed to investigate Mercury, Venus and Mars". They had small mission duration (less than a year) and were declared defunct before being set off in a heliocentric orbit.
 
