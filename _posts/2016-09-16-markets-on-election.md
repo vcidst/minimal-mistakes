@@ -19,8 +19,7 @@ Source
 I came across a [time series analysis of German
 Market](http://rpubs.com/sumtxt/dax-volatility) in the light of federal
 elections and decided to try the same for BSE SENSEX(Bombay Stock
-Exchange Sensitive Index), which is a stock market index of 30 companies
-listed at Dalal Street, and Indian Lok Sabha Elections.
+Exchange Sensitive Index) and Indian Lok Sabha Elections. Sensex is a stock market index of 30 companies listed at Dalal Street, Mumbai(Bombay).
 
 Getting Data
 ------------
@@ -64,9 +63,9 @@ volatility so I will also explore other quantities.
 
 I see two things here,
 
-1.  Sensex has become very volatile over time.
+1.  Sensex has become volatile over time.
 2.  There is a slight hint that market is effected by the results,
-    however it can only be seen in 2004, 2009 and 2014 elections.
+    but it can only be seen in 2004, 2009 and 2014 elections.
 
 ### Zoom In
 
@@ -142,8 +141,7 @@ I need to look in the daily charts for this,
 I'm thinking mean change(in percent) for the month might be better able
 to represent the volatility through the month.
 
-2008 has surely been a rough year. The 10% fall visible in the month of
-October is the [largest crash
+2008 was a rough year for markets worldwide with the global financial crisis. The 10% fall visible in October is the [largest crash
 ever](http://www.rediff.com/money/2008/oct/24bcrisis10.htm) from BSE
 Sensex. Let's check how other years compare to this.
 
@@ -168,7 +166,7 @@ months.
 > stability will come in the economic policies," brokerage firm Unicorn
 > Financial CEO G Nagpal said.
 
-There's a very clear spike of massive 15%. Market looks like in
+There's a clear spike of massive 15%. Market looks like in
 indifference till the results are announced followed by a sigh of
 relief. Markets like political stabiity. 2009 elections meant 5 more
 years of nearly the same economic policy. \[1\]
@@ -196,7 +194,7 @@ log-returns](https://quantivity.wordpress.com/2011/02/21/why-log-returns/).
 Paul Teetor mentions in R Cookbook that volatility is measured as the
 standard deviation of daily log-returns.
 
-This makes log-returns very relevant to the subject of this post. In my
+This makes log-returns relevant to the subject of this post. In my
 quest to find "How does Lok Sabha Election effect Sensex", I've failed
 to find a direct correlation between the two. Using log-returns I can
 check if it makes the market volatile or, in a way, nervous.
@@ -216,7 +214,7 @@ So, does the Lok Sabha election makes Sensex a nervous?
 -------------------------------------------------------
 
 Well, it only made them nervous in 2004 and 2009. There's a kind of
-apparent indifference that is widespread elsewhere.
+plain indifference that is widespread elsewhere.
 
 Addressing the real oddity in the room,
 ---------------------------------------
@@ -239,7 +237,7 @@ When I switch to daily variations,
 
 ![](/images/figure-markdown_strict/daily%20changes%20grid-1.png)
 
-This isn't all that very helpful. There's something important that's
+This isn't all that helpful. There's something important that's
 still missing. We need insights!
 
 Other Analysis Methods I Missed
