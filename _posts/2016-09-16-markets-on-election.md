@@ -10,7 +10,7 @@ excerpt: "Addressing questions about elections and BSE Sensex with data"
 
 {% include toc title="Contents" icon="file-text" %}
 
-{: .notice} **Sourcecode** You can also read [another version of this post](http://shailendra.me/analysis/markets-on-election-code/) that also has all the R code I used for analysis and generating plots.
+**Sourcecode** You can also read [another version of this post](http://shailendra.me/analysis/markets-on-election-code/) that also has all the R code I used for analysis and generating plots.{: .notice} 
 
 Source
 ------
