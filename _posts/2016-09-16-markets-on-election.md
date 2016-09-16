@@ -142,9 +142,11 @@ Need for Normalization
 
 There's still a problem here. Some large values in rolling variance are making it harder to see the complete picture. We need a measure that normalizes the data. Daily differences when measured in percentages might prove to be a good candidate here. They're generally called returns.
 
-Returns \\(r_i\\) are calculated as,
+Returns on day i \\(r_i\\) is calculated as,
 
-$$r_i = \frac{p_i - p_j}{p_j}$$
+$$ r_i = \frac{p_i - p_{i-1}}{p_{i-1}} $$
+
+where \\(p_i\\) is the price on day i
 
 ``` r
 bse.index <- mutate(bse.index, 
