@@ -1,0 +1,8 @@
+* Make better the home page, you can
+	- add a banner
+* think about UI, fonts, kinds of things you'd like
+* make a section for 
+	- link buckets where I put things I've read
+	- curate a list of things on the internet to read
+	- publish the markdown documents I've made while reading
+* clean stuff
