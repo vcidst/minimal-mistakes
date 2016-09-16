@@ -10,25 +10,6 @@ excerpt: "Addressing questions about elections and BSE Sensex with data"
 
 {% include toc title="Contents" icon="file-text" %}
 
--   [Source](#source)
--   [Getting Data](#getting-data)
--   [Loading Packages](#loading-packages)
--   [Loading Sensex](#loading-sensex)
--   [Lok Sabha Election Dates](#lok-sabha-election-dates)
--   [What's next?](#whats-next)
-    -   [Plot of Sensex with Rolling Variance](#plot-of-sensex-with-rolling-variance)
-    -   [Zoom In](#zoom-in)
--   [Need for Normalization](#need-for-normalization)
-    -   [Aggregating Data](#aggregating-data)
--   [Log-Returns](#log-returns)
--   [Addressing the real oddity in the room,](#addressing-the-real-oddity-in-the-room)
--   [Other Analysis Methods I Missed](#other-analysis-methods-i-missed)
-    -   [Changepoints Analysis](#changepoints-analysis)
-    -   [Decomposition](#decomposition)
-    -   [Intervention Analysis](#intervention-analysis)
--   [Feedback](#feedback)
--   [Footnotes](#footnotes)
-
 Source
 ------
 
@@ -161,9 +142,9 @@ Need for Normalization
 
 There's still a problem here. Some large values in rolling variance are making it harder to see the complete picture. We need a measure that normalizes the data. Daily differences when measured in percentages might prove to be a good candidate here. They're generally called returns.
 
-Returns \(r_i\) are calculated as,
+Returns $r_i$ are calculated as,
 
-\[ r_i = \frac{p_i - p_j}{p_j} \]
+$$r_i = \frac{p_i - p_j}{p_j}$$
 
 ``` r
 bse.index <- mutate(bse.index, 
@@ -230,9 +211,9 @@ ct <- lm(bse.by_month.2000$mean ~ bse.by_month.2000$Date)
 
 Linear model is essentially a line. For each point on x-axis, there's a point on y-axis corresponding to the line. These set of points on y-axis are called fitted values. To detrend, I just need to subtract the data from fitted values for the whole x-axis.
 
-\[ y_i - \left (\beta_1 x_i + \beta_2  \right ) \]
+$$y_i - \left (\beta_1 x_i + \beta_2  \right )$$
 
-\(\beta_1\) and \(\beta_2\) are parameters from the linear model. This difference is called residuals in regression theory. There's a handy function `resid()` that calculates it given the linear model.
+$beta_1$ and $beta_2$ are parameters from the linear model. This difference is called residuals in regression theory. There's a handy function `resid()` that calculates it given the linear model.
 
 1.  Plot the residuals
 
@@ -267,7 +248,7 @@ ggplot(data = bse.by_month.2000, aes(x = Date)) +
 
 ![](/images/figure-markdown_github/unnamed-chunk-1-1.png)
 
-Whoa a 30% crash!
+Whoa a 20% crash!
 
 ``` r
 which(abs(bse.by_month.2000$rate) > .2)
