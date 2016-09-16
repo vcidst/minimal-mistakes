@@ -142,7 +142,7 @@ Need for Normalization
 
 There's still a problem here. Some large values in rolling variance are making it harder to see the complete picture. We need a measure that normalizes the data. Daily differences when measured in percentages might prove to be a good candidate here. They're generally called returns.
 
-Returns $r_i$ are calculated as,
+Returns \\(r_i\\) are calculated as,
 
 $$r_i = \frac{p_i - p_j}{p_j}$$
 
@@ -213,7 +213,7 @@ Linear model is essentially a line. For each point on x-axis, there's a point on
 
 $$y_i - \left (\beta_1 x_i + \beta_2  \right )$$
 
-$beta_1$ and $beta_2$ are parameters from the linear model. This difference is called residuals in regression theory. There's a handy function `resid()` that calculates it given the linear model.
+\\(beta_1\\) and \\(beta_2\\) are parameters from the linear model. This difference is called residuals in regression theory. There's a handy function `resid()` that calculates it given the linear model.
 
 1.  Plot the residuals
 
