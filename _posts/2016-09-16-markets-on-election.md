@@ -215,7 +215,7 @@ Linear model is essentially a line. For each point on x-axis, there's a point on
 
 $$y_i - \left (\beta_1 x_i + \beta_2  \right )$$
 
-\\(beta_1\\) and \\(beta_2\\) are parameters from the linear model. This difference is called residuals in regression theory. There's a handy function `resid()` that calculates it given the linear model.
+\\(\beta_1\\) and \\(\beta_2\\) are parameters from the linear model. This difference is called residuals in regression theory. There's a handy function `resid()` that calculates it given the linear model.
 
 1.  Plot the residuals
 
