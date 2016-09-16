@@ -8,6 +8,8 @@ tags:
 excerpt: "Addressing questions about elections and BSE Sensex with data"
 ---
 
+{% include toc title="Contents" icon="file-text" %}
+
 -   [Source](#source)
 -   [Getting Data](#getting-data)
 -   [Loading Packages](#loading-packages)
@@ -126,7 +128,7 @@ plot(index(rolvar), as.numeric(rolvar), type = "l", xlab = "Date", ylab = "rolli
 abline(v = elections, col = "red")
 ```
 
-![](marketonelection_public_files/figure-markdown_github/plot-1.png)
+![](/images/figure-markdown_github/plot-1.png)
 
 I see two things here,
 
@@ -150,7 +152,7 @@ for (i in 1:6) {
 }
 ```
 
-![](marketonelection_public_files/figure-markdown_github/zoom%20in-1.png)
+![](/images/figure-markdown_github/zoom%20in-1.png)
 
 I see a sign that markets have started becoming nervous around the elections and that volatality has increased.
 
@@ -182,7 +184,7 @@ ggplot(data = subset(bse.index, Date > "2000-01-01"), aes(x = Date)) +
   labs(x = NULL, y = "returns", title = "Daily Returns of Sensex since 2000")
 ```
 
-![](marketonelection_public_files/figure-markdown_github/rate%20range-1.png)
+![](/images/figure-markdown_github/rate%20range-1.png)
 
 This is a complete mess! I cannot infer anything from daily values. This calls for aggregation!
 
@@ -213,7 +215,7 @@ ggplot(data = subset(bse.by_month, year > 2000), aes(x = Date, y = mean)) +
   labs(x = NULL, y = "Monthly Averages", title = "Sexsex (since 2000)")
 ```
 
-![](marketonelection_public_files/figure-markdown_github/bse%20index%20by%20month-1.png)
+![](/images/figure-markdown_github/bse%20index%20by%20month-1.png)
 
 There's a clear linear trend visible. This is an example of a non-stationary time-series. We can detrend it to make it stationary, in other words make it horizontal.
 
@@ -241,7 +243,7 @@ qplot(x = bse.by_month.2000$Date, y = resid(ct), geom = "line") +
   geom_smooth(method = "lm")
 ```
 
-![](marketonelection_public_files/figure-markdown_github/detrending-1.png)
+![](/images/figure-markdown_github/detrending-1.png)
 
 Now this is somewhat smooth, I should plot the returns to see the effect more pronounced
 
@@ -263,7 +265,7 @@ ggplot(data = bse.by_month.2000, aes(x = Date)) +
   labs(x = NULL, y = "return", title = "BSE Sensex Monthly returns since 2000")
 ```
 
-![](marketonelection_public_files/figure-markdown_github/unnamed-chunk-1-1.png)
+![](/images/figure-markdown_github/unnamed-chunk-1-1.png)
 
 Whoa a 30% crash!
 
@@ -308,17 +310,17 @@ ggplot(data = subset(bse.index, year == 2008), aes(x = Date)) +
   labs(y = "return", x = "Week", title = "BSE Sensex in the year 2008")
 ```
 
-![](marketonelection_public_files/figure-markdown_github/2008-1.png)
+![](/images/figure-markdown_github/2008-1.png)
 
 I'm thinking mean change(in percent) for the month might be better able to represent the volatility through the month.
 
 2008 has surely been a rough year. The 10% fall visible in the month of October is the [largest crash ever](http://www.rediff.com/money/2008/oct/24bcrisis10.htm) from BSE Sensex. Let's check how other years compare to this.
 
-![](marketonelection_public_files/figure-markdown_github/volatility%20in%20other%20years-1.png)
+![](/images/figure-markdown_github/volatility%20in%20other%20years-1.png)
 
 Look at the 5th month! The results came out on 16th May, 2004 and clearly the market was more nervous than anytime in the year! If I'm not wrong, I should see a similar trend in the year 2009.
 
-![](marketonelection_public_files/figure-markdown_github/changes%20in%20year%202009-1.png)
+![](/images/figure-markdown_github/changes%20in%20year%202009-1.png)
 
 *Trivia*: Stable governments imply date of elections do not change. Results for general elections have been coming out exactly around 3rd week of May every 5 years in 21st century.
 
@@ -332,7 +334,7 @@ Back to the election spike, Is this statistically significant? Is that even a ri
 
 I'm exciting to see how does Modi's election look like. If I remember correctly Congress never even looked like they had a chance. There was some nervousness about a messy coalition government involving the 3rd front but market would have loved as one party got the required majority to make the government.
 
-![](marketonelection_public_files/figure-markdown_github/changes%20in%20year%202014-1.png)
+![](/images/figure-markdown_github/changes%20in%20year%202014-1.png)
 
 Look at the 5th panel, this is interesting! I was completely wrong! There's no sign of nervousness for the chance of a coalition government, which is odd.
 
@@ -361,7 +363,7 @@ ggplot(data = subset(bse.index, year >= 1995), aes(x = Date, y = log.returns)) +
   geom_vline(xintercept = as.numeric(elections$Date), linetype = "dotted", color = "#444444", size = 1, alpha = 0.75)
 ```
 
-![](marketonelection_public_files/figure-markdown_github/log-returns-1.png)
+![](/images/figure-markdown_github/log-returns-1.png)
 
 Also take a look at how volatility has changed over time. For this I need to calculate the rolling volatility in Sensex using `rollapply()`. Did I mention that `autoplot()` can be used with `zoo` objects to make them compatible with `ggplot` layers?
 
@@ -374,7 +376,7 @@ autoplot(rolvol) +
   theme_economist_white()
 ```
 
-![](marketonelection_public_files/figure-markdown_github/volatility-1.png)
+![](/images/figure-markdown_github/volatility-1.png)
 
 I need a grid to see the volatility around elections!
 
@@ -392,7 +394,7 @@ for (i in 1:10) {
 do.call(grid.arrange,c(p, ncol = 2, top = "Volatility in BSE Sensex with General Elections"))
 ```
 
-![](marketonelection_public_files/figure-markdown_github/unnamed-chunk-2-1.png)
+![](/images/figure-markdown_github/unnamed-chunk-2-1.png)
 
 This looks like the conclusive graph I was looking for. Sensex was nervous when an economist became the prime minister. Hah!
 
@@ -433,7 +435,7 @@ for (i in 1:10) {
 do.call(grid.arrange,c(p, ncol = 2, top = "BSE Sensex Monthly Returns"))
 ```
 
-![](marketonelection_public_files/figure-markdown_github/grid-1.png)
+![](/images/figure-markdown_github/grid-1.png)
 
 When I switch to daily variations,
 
@@ -457,7 +459,7 @@ for (i in 1:10) {
 do.call(grid.arrange,c(p, ncol = 2, top = "Returns in BSE Sensex in election years"))
 ```
 
-![](marketonelection_public_files/figure-markdown_github/daily%20changes%20grid-1.png)
+![](/images/figure-markdown_github/daily%20changes%20grid-1.png)
 
 This isn't all that very helpful. There's something important that's still missing. We need insights!
 
@@ -477,7 +479,7 @@ ggplot(data = subset(bse.index, year == 2004), aes(x = Date, y = Close)) +
   geom_vline(xintercept = as.numeric(elections$Date), linetype = "dotted", color = "#C0392B", size = 1)
 ```
 
-![](marketonelection_public_files/figure-markdown_github/bse%20index%202004-1.png)
+![](/images/figure-markdown_github/bse%20index%202004-1.png)
 
 I can also add changepoints to this mix,
 
@@ -492,7 +494,7 @@ plot(cpt2, main = "BSE Sensex in 2004 w/ changepoints")
 abline(v = 91, col = "blue")
 ```
 
-![](marketonelection_public_files/figure-markdown_github/changepoint%20plot-1.png)
+![](/images/figure-markdown_github/changepoint%20plot-1.png)
 
 ``` r
 bse.2004 <- subset(bse.index, year == 2004)
@@ -527,7 +529,7 @@ d <- decompose(sensex.ts)
 plot(d)
 ```
 
-![](marketonelection_public_files/figure-markdown_github/unnamed-chunk-3-1.png)
+![](/images/figure-markdown_github/unnamed-chunk-3-1.png)
 
 ### Intervention Analysis
 
