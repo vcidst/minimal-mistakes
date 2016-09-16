@@ -89,7 +89,7 @@ returns.
 
 Return on *i* day *r*<sub>*i*</sub> is calculated as,
 
-$$ r\_i = \\\frac{p\_i - p\_{i-1}}{p\_{i-1}} $$
+$$ r_i = \frac{p_i - p_{i-1}}{p_{i-1}} $$
 
 where *p*<sub>*i*</sub> is the price on day *i*
 
