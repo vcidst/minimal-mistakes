@@ -210,11 +210,11 @@ I need a grid to see the volatility around elections!
 This looks like the conclusive graph I was looking for. Sensex was
 nervous when an economist became the prime minister. Hah!
 
-So, does the Lok Sabha election makes Sensex a nervous?
+So, do the Lok Sabha elections make Sensex nervous?
 -------------------------------------------------------
 
-Well, it only made them nervous in 2004 and 2009. There's a kind of
-plain indifference that is widespread elsewhere.
+Well, we can only see volatality in 2004 and 2009. There's a kind of
+plain indifference that is widespread elsewhere. I'm not sure what to take away from this. Other than that it's a remarkably complex interaction which we shouldn't have hoped to find a simple answer to.
 
 Addressing the real oddity in the room,
 ---------------------------------------
