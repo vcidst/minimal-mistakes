@@ -1,5 +1,5 @@
 ---
-title: "How does the Lok Sabha Elections effect Sensex? w/ code"
+title: "How do the Lok Sabha Elections effect Sensex? w/ code"
 categories:
   - Analysis
 tags:
