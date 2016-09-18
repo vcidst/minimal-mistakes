@@ -187,7 +187,7 @@ advantage of using them right now anyway.
       theme(legend.position = "none") +
       labs(x = NULL, y = "returns", title = "Daily Returns of Sensex since 2000")
 
-![](/images/figure-markdown_strict/rate%20range-1.png)
+![](/images/figure-markdown_strict/lagging-1.png)
 
 This is a complete mess! I cannot infer anything from daily values. This
 calls for aggregation!
