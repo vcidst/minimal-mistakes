@@ -35,7 +35,7 @@ Can an advertising campaign change the meaning of a word? [^1]
 
 Answer to these questions requires digging into the specifics and following the story of the word along its all lexical units. I will not do that now because questions are sometimes more interesting. If this word indeed flipped its meaning, that is truly fascinating too! What kind of duration would that shift have required?
 
-Do you wonder the same questions about a sister word `awesome` which is `awe-some` or perhaps `some awe(?)`. Awesome isn't a pejorative. Then why awful? A lot of these questions don't have a clear answer but this post by Kosmonaut on English Stack Exchange sets a lot straight.
+Do you wonder the same questions about a sister word `awesome` which is `awe-some` or perhaps `some awe(?)`. Awesome isn't a pejorative. Then why awful? A lot of these questions don't have a clear answer but [this post by Kosmonaut on English Stack Exchange](https://english.stackexchange.com/questions/6802/awesome-vs-awful) sets a lot straight.
 
 > The words have been around hundreds and hundreds of years. While they were constructed by combining awe with -ful or -some, once they became lexical items as complete words, their meaning was able to drift like any other lexical item — the fact that each word is composed of a stem and suffix doesn't stop this. (Also, bear in mind that -some, the suffix, doesn't mean "some of X", it means "having the quality of X". Think fearsome, loathsome, cumbersome. And -ful is basically the same as -some in its meaning, with all words.)
 >
