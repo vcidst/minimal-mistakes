@@ -7,7 +7,7 @@ tags:
   - history
 ---
 
-Langauges evolve. They grow with people and as their usage, pronunciations, and purpose of words begin to change. A lot of the words have mutliple meanings. These multitudes of meanings fade in and out of existence. Like a leaderboard of a soccer league. This usually happens on a scale of time that isn't immediately perceptible to us. So we often forget that languages are not static.
+Langauges evolve. They grow with people and as their usage, pronunciations, and purpose of words begin to change. A lot of the words have mutliple meanings. These multitudes of meanings fade in and out of existence. Like a leaderboard of a soccer league. This usually happens on a scale of time that isn't immediately perceptible to us. So we often forget that languages are not static. [^1]
 
 The word awful is a conjunction of awe+ful. That makes it sound like it should mean something like "full of awe", right? 
 
@@ -31,7 +31,7 @@ Why did not the meaning `full of fear` survive?
 
 If someone famous uses a word in a certain way at a certain time, can that influence what people think about that word?
 
-Can an advertising campaign change the meaning of a word? [^1]
+Can an advertising campaign change the meaning of a word? [^2]
 
 Answer to these questions requires digging into the specifics and following the story of the word along its all lexical units. I will not do that now because questions are sometimes more interesting. If this word indeed flipped its meaning, that is truly fascinating too! What kind of duration would that shift have required?
 
@@ -49,4 +49,5 @@ Now a lot of people say that this is bad design. Frenchmen regulate and police t
 
 Some of these factors work together to give us a language that gives us words for `full of awe` and `some awe` that don't mean anything like that. You might call this the stupidity of langauge but I do not think that is the case. In fact, expecting an epistemological tool like langauge to follow the rules of logic would be non-intuitive. All of the weird stuff that goes in languages make it so special.
 
-[^1]: Edward Bernays in 1930s led an advertising campaign with the intent to make green a fashionable color in the next few years. Green was the color of packs of Lucky Strike Cigarettes. This was a time of neck to neck competition between the Lucky Strike, Old Gold and Camel. As cigarettes from different brands are inherently the same rolled tobacco sticks, it enabled a cambrian explosion of advertising strategies. Bernays, a cousin of Sigmund Freud, began writing to fashion designers, interior decorators, art directors, and city planners. They wanted subtle hints of green to be dropped in movies, advertisments, and consumer products. Bernays invented Public Relations meanwhile. Professionally pushing for the smallest details to market the brand which happened to be a color. By the end of it, Lucky Strike had overtaken the other two as the highest selling cigarette brand.
+[^1]: [Language Change and Historical Reconstruction](https://www.ling.upenn.edu/courses/Fall_2003/ling001/language_change.html), Lecture Notes from Linguistics 101, University of Pennsylvania 
+[^2]: Edward Bernays in 1930s led an advertising campaign with the intent to make green a fashionable color in the next few years. Green was the color of packs of Lucky Strike Cigarettes. This was a time of neck to neck competition between the Lucky Strike, Old Gold and Camel. As cigarettes from different brands are inherently the same rolled tobacco sticks, it enabled a cambrian explosion of advertising strategies. Bernays, a cousin of Sigmund Freud, began writing to fashion designers, interior decorators, art directors, and city planners. They wanted subtle hints of green to be dropped in movies, advertisments, and consumer products. Bernays invented Public Relations meanwhile. Professionally pushing for the smallest details to market the brand which happened to be a color. By the end of it, Lucky Strike had overtaken the other two as the highest selling cigarette brand.
