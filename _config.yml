@@ -5,42 +5,20 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-# Theme Settings
-#
-# Review documentation to determine if you should use `theme` or `remote_theme`
-# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
-
-# theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
 # Site Settings
 locale                   : "en-US"
-<<<<<<< HEAD
 title                    : "Shailendra Paliwal"
-=======
-title                    : "Site Title"
->>>>>>> ddd5b7a9c578d15b83506c7587e2a6aac2aa99f0
 title_separator          : "-"
 name                     : &name "Shailendra"
 description              : &description "A repository of essays by Shailendra"
 url                      : http://vcidst.github.io 
 baseurl                  : # the subpath of your site, e.g. "/blog"
-<<<<<<< HEAD
 gh_repo                  : "https://github.com/vcidst/vcidst.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus"
-=======
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
-comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
->>>>>>> ddd5b7a9c578d15b83506c7587e2a6aac2aa99f0
   disqus:
     shortname            : "ziscore"
   discourse:
@@ -50,41 +28,12 @@ comments:
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
-staticman:
-  allowedFields          : # ['name', 'email', 'url', 'message']
-  branch                 : # "master"
-  commitMessage          : # "New comment."
-  filename               : # comment-{@timestamp}
-  format                 : # "yml"
-  moderation             : # true
-  path                   : # "/_data/comments/{options.slug}" (default)
-  requiredFields         : # ['name', 'email', 'message']
-  transforms:
-    email                : # "md5"
-  generatedFields:
-    date:
-      type               : # "date"
-      options:
-        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-reCaptcha:
-  siteKey                :
-  secret                 :
-atom_feed:
-  path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia
-algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
 
 # SEO Related
 google_site_verification : 
 bing_site_verification   :
+alexa_site_verification  :
 yandex_site_verification :
-naver_site_verification  :
 
 # Social Sharing
 twitter:
@@ -106,43 +55,27 @@ social:
 analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-<<<<<<< HEAD
     tracking_id          : "UA-65806582-1"
 
 # Google AdSense
 google_ad_client         :
 google_ad_slot           :
-=======
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
->>>>>>> ddd5b7a9c578d15b83506c7587e2a6aac2aa99f0
 
 
 # Site Author
 author:
-<<<<<<< HEAD
   name             : *name
   avatar           : bio-photo.jpg
   bio              : "Interested in intersections of technology, math, culture and history"
   location         : "Udaipur"
   email            : "hello@shailendra.me"
   uri              : 
-=======
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
-  home             : # null (default), "absolute or relative url to link to author home"
->>>>>>> ddd5b7a9c578d15b83506c7587e2a6aac2aa99f0
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         : 
   foursquare       :
-<<<<<<< HEAD
   github           : "vcidst"
   google_plus      :
   keybase          :
@@ -153,25 +86,12 @@ author:
   soundcloud       :
   stackoverflow    : "http://stackoverflow.com/users/5238084/volis"
   steam            :
-=======
-  github           :
-  gitlab           :
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
->>>>>>> ddd5b7a9c578d15b83506c7587e2a6aac2aa99f0
   tumblr           :
   twitter          : *twitter
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          :
 
 
 # Reading Files
@@ -181,7 +101,6 @@ include:
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
-  - vendor
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
@@ -202,8 +121,6 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
@@ -231,7 +148,6 @@ kramdown:
   enable_coderay: false
 
 
-<<<<<<< HEAD
 # Collections
 collections:
   docs:
@@ -306,27 +222,17 @@ defaults:
       layout: single
       author_profile: false
       share: true
-=======
-# Sass/SCSS
-sass:
-  sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
->>>>>>> ddd5b7a9c578d15b83506c7587e2a6aac2aa99f0
 
 
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-<<<<<<< HEAD
 timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-=======
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
->>>>>>> ddd5b7a9c578d15b83506c7587e2a6aac2aa99f0
 
 
-# Plugins (previously gems:)
-plugins:
+# Plugins
+gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -379,18 +285,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
