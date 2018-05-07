@@ -1,20 +1,7 @@
-# main links
+# main links links
 main:
-<<<<<<< HEAD
   - title: "About"
     url: https://shailendra.me/about/
 
   - title: "Résumé"
     url: http://shailendra.me/resume-latest.pdf
-=======
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
->>>>>>> ddd5b7a9c578d15b83506c7587e2a6aac2aa99f0
