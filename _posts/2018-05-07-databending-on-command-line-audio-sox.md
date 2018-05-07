@@ -65,6 +65,6 @@ This is the end result,
 
 This was a basic example showing how to work with sox and images, you can of course extend this to all of the audio effects possible with sox. Check out their man page for more examples. Let me know what you make with this!
 
-[^1]: You can do this from command line too, open command prompt and type 'setx path "%path%;C:\Program Files (x86)\sox-14-4-2"' check the directory name to make sure it exists and the version number is correct.
+[^1]: You can do this from command line too, open command prompt and type `setx path "%path%;C:\Program Files (x86)\sox-14-4-2"` check the directory name to make sure it exists and the version number is correct.
 
 [^2]: Check 'help for' inside Command Prompt for the help page. It is also available [here](https://ss64.com/nt/for_cmd.html). When iterating through a list of numbers, the syntax is 'for /l %i in (start, step, end) do <cmd>'
