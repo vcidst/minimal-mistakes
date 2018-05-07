@@ -62,6 +62,7 @@ This is the end result,
 
 <div style='position:relative;padding-bottom:76%'><iframe src='https://gfycat.com/ifr/SolidJollyElver' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
+
 This was a basic example showing how to work with sox and images, you can of course extend this to all of the audio effects possible with sox. Check out their man page for more examples. Let me know what you make with this!
 
 [^1]: You can do this from command line too, open command prompt and type 'setx path "%path%;C:\Program Files (x86)\sox-14-4-2"' check the directory name to make sure it exists and the version number is correct.
