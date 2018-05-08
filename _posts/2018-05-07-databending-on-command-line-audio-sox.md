@@ -82,16 +82,16 @@ You're watching an echo travel across the image as delay is varied. The effect u
 LibSoX source visualizes it with this ASCII diagram,
 ```
 
- *        * gain-in                                              ___
- * ibuff -----------+------------------------------------------>| + |
- *                  |       _________                           | + |
- *                  |      |         |                * decay 1 | + |
- *                  +----->| delay 1 |------------------------->| + |
- *                         |_________|                           ---
- *                                                                |
- *                                                                | * gain-out
- *                                                                |
- *                                                                +----->obuff
+ *        * gain-in                                ___
+ * ibuff -----------+---------------------------->| + |
+ *                  |       _________             | + |
+ *                  |      |         |  * decay 1 | + |
+ *                  +----->| delay 1 |----------->| + |
+ *                         |_________|             ---
+ *                                                  |
+ *                                                  | * gain-out
+ *                                                  |
+ *                                                   +----->obuff
 ```
 As we change the delay value inside the for loop it generates an echo of variable delays. Although this operation doesn't happen for the image as a whole. But you can as well think of it in terms of a whole image. When I generated 100 images, sox somewhat did this
 
