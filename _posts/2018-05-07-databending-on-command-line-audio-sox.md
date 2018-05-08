@@ -75,9 +75,12 @@ I posted the gif in the end to /r/Glitch_Art and it reached the subreddit's home
 I wrote [an explanation as a reply in the comments](https://www.reddit.com/r/glitch_art/comments/8hnilz/databending_water_tutorial_in_comments_gif/dymmjwh) there but I think it will be helpful if added here too. Pasting my comment as-is
 {: .notice}
 
+## Why This Happens
+
 You're watching an echo travel across the image as delay is varied. The effect used here took four parameters, it was `echo gain-in gain-out delay decay`. Think of it as taking every pixel value in the image and processing it through the diagram below,
 
 LibSoX source visualizes it with this ASCII diagram,
+```
 
  *        * gain-in                                              ___
  * ibuff -----------+------------------------------------------>| + |
@@ -89,7 +92,7 @@ LibSoX source visualizes it with this ASCII diagram,
  *                                                                | * gain-out
  *                                                                |
  *                                                                +----->obuff
-
+```
 As we change the delay value inside the for loop it generates an echo of variable delays. Although this operation doesn't happen for the image as a whole. But you can as well think of it in terms of a whole image. When I generated 100 images, sox somewhat did this
 
     Image + [Image_Copy(shifted by 1 unit) * gain value]
