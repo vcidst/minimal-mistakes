@@ -63,8 +63,42 @@ This is the end result,
 <div style='position:relative;padding-bottom:76%'><iframe src='https://gfycat.com/ifr/SolidJollyElver' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 <br>
-
 This was a basic example showing how to work with sox and images, you can of course extend this to all of the audio effects possible with sox. Check out their man page for more examples. Let me know what you make with this!
+
+{% notice info %}
+**Added on 8th May, 2018** 
+I posted the gif in the end to /r/Glitch_Art and it reached the subreddit's homepage! In the comments, /u/ddneva asks something,
+
+> ddnava
+> I'm actually more curious about what am I actually watching instead of how to do it
+
+I wrote an explanation as a reply in the comments there but I think it will be helpful if added here too. Pasting my comment as-is,
+{% endnotice %}
+
+You're watching an echo travel across the image as delay is varied. The effect used here took four parameters, it was `echo gain-in gain-out delay decay`. Think of it as taking every pixel value in the image and processing it through the diagram below,
+
+LibSoX source visualizes it with this ASCII diagram,
+
+ *        * gain-in                                              ___
+ * ibuff -----------+------------------------------------------>| + |
+ *                  |       _________                           | + |
+ *                  |      |         |                * decay 1 | + |
+ *                  +----->| delay 1 |------------------------->| + |
+ *                         |_________|                           ---
+ *                                                                |
+ *                                                                | * gain-out
+ *                                                                |
+ *                                                                +----->obuff
+
+As we change the delay value inside the for loop it generates an echo of variable delays. Although this operation doesn't happen for the image as a whole. But you can as well think of it in terms of a whole image. When I generated 100 images, sox somewhat did this
+
+    Image + [Image_Copy(shifted by 1 unit) * gain value]
+
+    Image + [Image_Copy(shifted by 2 unit) * gain value]
+
+    Image + [Image_Copy(shifted by 3 unit) * gain value] and so on.
+
+Thus, when we put it all back together. It looks like this.
 
 [^1]: You can do this from command line too, open command prompt and type `setx path "%path%;C:\Program Files (x86)\sox-14-4-2"` check the directory name to make sure it exists and the version number is correct.
 
