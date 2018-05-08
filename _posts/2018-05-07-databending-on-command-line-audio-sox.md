@@ -65,15 +65,15 @@ This is the end result,
 <br>
 This was a basic example showing how to work with sox and images, you can of course extend this to all of the audio effects possible with sox. Check out their man page for more examples. Let me know what you make with this!
 
-<div class="notice--info">
-  <h4>Added on 8th May, 2018</h4>
-  <p>I posted this gif to /r/Glitch_Art and it reached the subreddit's homepage! [In the comments](https://www.reddit.com/r/glitch_art/comments/8hnilz/databending_water_tutorial_in_comments_gif/), /u/ddneva asks something,
-<blockquote>
-  <p>ddnava</p>
-  <p>I'm actually more curious about what am I actually watching instead of how to do it</p>
-</blockquote>
-I wrote an explanation as a reply in the comments there but I think it will be helpful if added here too. Pasting my comment as-is</p>
-</div>
+### Added on 8th May, 2018
+
+I posted the gif in the end to /r/Glitch_Art and it reached the subreddit's homepage! [In the comments](https://www.reddit.com/r/glitch_art/comments/8hnilz/databending_water_tutorial_in_comments_gif/), /u/ddneva asks something,
+
+> ddnava
+> I'm actually more curious about what am I actually watching instead of how to do it
+
+I wrote [an explanation as a reply in the comments](https://www.reddit.com/r/glitch_art/comments/8hnilz/databending_water_tutorial_in_comments_gif/dymmjwh) there but I think it will be helpful if added here too. Pasting my comment as-is
+{: .notice}
 
 You're watching an echo travel across the image as delay is varied. The effect used here took four parameters, it was `echo gain-in gain-out delay decay`. Think of it as taking every pixel value in the image and processing it through the diagram below,
 
