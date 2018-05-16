@@ -7,13 +7,13 @@ tags:
   - hindi
 ---
 
-A couple days ago I realized that [Jabberwocky hasn't been translated in Hindi](http://www76.pair.com/keithlim/jabberwocky/translations/index.html). I think Hindi is a phonetically beautiful language and something like Jabberwocky which plays a lot with portmanteaus and nonsense words would be a fun exercise to translate in this language. Arjita Mittal and I collaborated on this piece. 
+A couple days ago I realized that [Jabberwocky hasn't been translated in Hindi](http://www76.pair.com/keithlim/jabberwocky/translations/index.html). I think Hindi is a phonetically beautiful language and something like Jabberwocky which plays a lot with portmanteaus and nonsense words would be a fun exercise to translate in this language. Arjita Mital and I collaborated on this piece. 
 
 *drum rolls*
 
 Jabberwocky as बकरसुरी   
 By Lewis Carroll   
-Translated by Arjita Mittal and Shailendra Paliwal   
+Translated by Arjita Mital and Shailendra Paliwal   
 
 खाचार समय था चातले बीजू, 
 घुमराते, गर्माते, मॆत में  
