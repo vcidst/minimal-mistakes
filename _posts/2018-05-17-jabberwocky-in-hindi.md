@@ -15,7 +15,7 @@ Jabberwocky as बकरसुरी
 By Lewis Carroll   
 Translated by Arjita Mital and Shailendra Paliwal   
 
-खाचार समय था चातले बीजू, 
+खाचार समय था चातले बीजू,    
 घुमराते, गर्माते, मॆत में  
 दुजोर थे सारे दुर्बळु,  
 और खुम सीव भी थे शोम में 
