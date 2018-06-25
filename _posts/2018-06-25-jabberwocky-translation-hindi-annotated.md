@@ -9,7 +9,7 @@ tags:
 
 This is a translation of Lewis Carroll's poem Jabberwocky. This particular version was cleaned up for PG-13 consumption. Annotated, hover over words for their root words or meaning.
 
-बकरसुरी   
+# बकरसुरी   
 अनुवादक, अर्जिता मितल और शैलेन्द्र पालीवाल 
 
 
@@ -49,23 +49,23 @@ This is a translation of Lewis Carroll's poem Jabberwocky. This particular versi
 और खुम सीव भी थे शोम में    
 
 
-[बकरसुर]: बकर+असुर      
-[खाचार]: खाना+चार     
-[चातले]: चालाक+पतले   
-[घुमराते]: घुमते+चक्राते      
-[गर्माते]: गड्ढा खोदना+बरमाना    
-[मॆत]: मिट्टी+खेत     
-[दुजोर]: दुखी+कमज़ोर     
-[दुर्बळु]: दुर्बल+उल्लू     
-[खुम सीव]: खोया+गुम; सूअर+जीव     
-[शोम]: शोक+गम     
-[ज्वलन्तींघा]: ज्वलंत+प्रतिघा    
-[वक्रचीर]: made up word for ‘Bandersnatch’     
-[जबक]: made up word for ‘Vorpal’   
-[चिंतंग]: चिंतित+तंग    
-[घनान्त]: घना+अनंत    
-[गरजगुर]: गरजना+गुर्राना    
-[शू और शाक]: the sound of a blade slicing through the air    
-[शष्नदार]: जश्न+शानदार     
-[खुशान्न्ता]: ख़ुशी+प्रसन्नता      
-[PG-13]: Parental Guidance
+*[बकरसुर]: बकर+असुर      
+*[खाचार]: खाना+चार     
+*[चातले]: चालाक+पतले   
+*[घुमराते]: घुमते+चक्राते      
+*[गर्माते]: गड्ढा खोदना+बरमाना    
+*[मॆत]: मिट्टी+खेत     
+*[दुजोर]: दुखी+कमज़ोर     
+*[दुर्बळु]: दुर्बल+उल्लू     
+*[खुम सीव]: खोया+गुम; सूअर+जीव     
+*[शोम]: शोक+गम     
+*[ज्वलन्तींघा]: ज्वलंत+प्रतिघा    
+*[वक्रचीर]: made up word for ‘Bandersnatch’     
+*[जबक]: made up word for ‘Vorpal’   
+*[चिंतंग]: चिंतित+तंग    
+*[घनान्त]: घना+अनंत    
+*[गरजगुर]: गरजना+गुर्राना    
+*[शू और शाक]: the sound of a blade slicing through the air    
+*[शष्नदार]: जश्न+शानदार     
+*[खुशान्न्ता]: ख़ुशी+प्रसन्नता      
+*[PG-13]: Parental Guidance
