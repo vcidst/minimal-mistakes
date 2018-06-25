@@ -10,9 +10,7 @@ tags:
 This is a translation of Lewis Carroll's poem Jabberwocky. This particular version was cleaned up for PG-13 consumption. Annotated, hover over words for their root words or meaning.
 
 बकरसुरी   
-
 अनुवादक, अर्जिता मितल और शैलेन्द्र पालीवाल 
-
 
 
 खाचार समय था चातले बीजू,    
@@ -70,3 +68,4 @@ This is a translation of Lewis Carroll's poem Jabberwocky. This particular versi
 [शू और शाक]: the sound of a blade slicing through the air    
 [शष्नदार]: जश्न+शानदार     
 [खुशान्न्ता]: ख़ुशी+प्रसन्नता      
+[PG-13]: Parental Guidance
