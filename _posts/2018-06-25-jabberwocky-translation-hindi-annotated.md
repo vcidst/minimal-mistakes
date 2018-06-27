@@ -10,7 +10,7 @@ tags:
 Republished at [Posham Pa](http://poshampa.org/bakarsuri/)
 {: .notice}
 
-This is a translation of Lewis Carroll's poem Jabberwocky. This particular version was cleaned up for PG-13 consumption (doesn't change much, only took one word out). This is annotated, hover over words for their root words or meaning.
+This is a translation of Lewis Carroll's poem Jabberwocky. This particular version was cleaned up for PG-13 consumption [^1] (doesn't change much, only took one word out). This is annotated, hover over words for their root words or meaning.
 
 One fine evening I was browsing /r/linguistics and came across [a question about how sounds and nonsense words are translated between languages](https://www.reddit.com/r/linguistics/comments/8h40ld/how_can_one_translate_sound_between_languages_for/). This thread was incredibly helpful and a great impetus for this translation.
 
@@ -77,3 +77,4 @@ Jabberwocky is a poem by Lewis Carroll. It has a great toneful and rhythmic stru
 *[खुशान्न्ता]: ख़ुशी+प्रसन्नता     
 
 
+[^1]: [link to earlier version](http://shailendra.me/translation/jabberwocky-in-hindi/)
