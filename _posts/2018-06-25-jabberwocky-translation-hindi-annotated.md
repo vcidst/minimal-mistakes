@@ -7,7 +7,13 @@ tags:
   - hindi
 ---
 
-This is a translation of Lewis Carroll's poem Jabberwocky. This particular version was cleaned up for PG-13 consumption. Annotated, hover over words for their root words or meaning.
+Republished at [Posham Pa](http://poshampa.org/bakarsuri/)
+{: .notice}
+
+This is a translation of Lewis Carroll's poem Jabberwocky. This particular version was cleaned up for PG-13 consumption (doesn't change much, only took one word out). This is annotated, hover over words for their root words or meaning.
+
+Jabberwocky is a poem by Lewis Carroll. It has a great toneful and rhythmic structure but with words that are entirely made up. Hindi is a phonetically beautiful language and something like Jabberwocky which plays a lot with portmanteaus and nonsense words was a fun exercise to translate in this language.
+
 
 # बकरसुरी   
 अनुवादक, अर्जिता मितल और शैलेन्द्र पालीवाल 
