@@ -7,7 +7,7 @@ tags:
   - digital rights
 ---
 
-Administrators in Udaipur have decided to shut down cellular internet (and home broadband services too maybe) on this weekend from ~~9-5~~ 8AM-5PM in the day [^copy of order]. This is not the first time this is happening. We are being normalized for what is an extreme action. This time the reason for shutdown is to deter cheating at a government examination. Shutdown internet for the whole district to stop cheating at an exam, makes perfect sense.
+Administrators in Udaipur have decided to shut down cellular internet (and home broadband services too maybe) on this weekend from ~~9-5~~ 8AM-5PM in the day [[copy of order](http://shailendra.me/uploads/internetsuspensionorder-udaipur.pdf)]. This is not the first time this is happening. We are being normalized for what is an extreme action. This time the reason for shutdown is to deter cheating at a government examination. Shutdown internet for the whole district to stop cheating at an exam, makes perfect sense.
 
 Folks at Software Freedom Law Centre (SFLC) have been tracking the Internet Shutdowns across India for last four years. According to [InternetShutdowns.in](https://internetshutdowns.in/), state of Rajasthan has seen 25 shutdowns in this duration which is second highest for any state in India after J&K! SFLC's [handbook on Internet Shutdowns in India](https://sflc.in/sites/default/files/reports/Living%20in%20Digital%20Darkness%20-%20A%20Handbook%20on%20Internet%20Shutdowns%20in%20India%2c%20May%202018%20-%20by%20SFLCin.pdf) is fairly useful policy primer on the issue. 
 
