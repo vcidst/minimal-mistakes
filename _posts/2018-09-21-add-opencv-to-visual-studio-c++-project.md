@@ -14,8 +14,8 @@ This is a step by step guide that shows the process to add OpenCV to your Visual
 This guide is written for people on Windows 10 but I guess not much changes for other windows versions.
 I am using Visual Studio 2017 Community and OpenCV 3.4.3 but the process should work with the slightly older versions of both as well.
 
-a. I assume you have Visual Studio with C++ features installed. If you do not, [download it here](https://visualstudio.microsoft.com/downloads/). 
-b. You can download OpenCV from [OpenCV Releases](https://opencv.org/releases.html) page, go for latest 3.4.x. After downloading this, run the installer, set the path at C:\OpenCV34 and press Extract. That's all.
+1. I assume you have Visual Studio with C++ features installed. If you do not, [download it here](https://visualstudio.microsoft.com/downloads/).    
+2. You can download OpenCV from [OpenCV Releases](https://opencv.org/releases.html) page, go for latest 3.4.x. After downloading this, run the installer, set the path at C:\OpenCV34 and press Extract. That's all.
 
 ![](http://shailendra.me/images/opencv_extract.png)
 
@@ -27,7 +27,8 @@ b. You can download OpenCV from [OpenCV Releases](https://opencv.org/releases.ht
 3. Pick a suitable name and change the location if you want to.
 4. Press OK
 
-![](http://shailendra.me/images/vs_add.gif)
+This is a gif, click for full-res
+[![](http://shailendra.me/images/vs_add.gif)](http://shailendra.me/images/vs_add.gif)
 
 ## Add OpenCV to your C++ Console Project
 
@@ -44,7 +45,8 @@ b. You can download OpenCV from [OpenCV Releases](https://opencv.org/releases.ht
 
 6. Click OK. You're done!
 
-![](http://shailendra.me/images/opencv_add.gif)
+Click on this gif for full-res version,
+[![](http://shailendra.me/images/opencv_add.gif)](http://shailendra.me/images/opencv_add.gif)
 
 ### Troubleshooting
 
@@ -56,4 +58,4 @@ This might be obvious but I will write anyway. If you run into a problem, read t
 
 Improvise, Overcome, Adapt!
 
-![](http://shailendra.me/images/overcome.png)
+![](http://shailendra.me/images/overcome.jpg)
