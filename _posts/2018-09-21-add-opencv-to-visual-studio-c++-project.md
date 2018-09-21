@@ -45,7 +45,7 @@ This is a gif, click for full-res
 
 6. Click OK. You're done!
 
-Click on this gif for full-res version,
+Click on this gif for full-res version, [link as video](https://gfycat.com/gifs/detail/SelfassuredFluffyFallowdeer)
 [![](http://shailendra.me/images/opencv_add.gif)](http://shailendra.me/images/opencv_add.gif)
 
 ### Troubleshooting
