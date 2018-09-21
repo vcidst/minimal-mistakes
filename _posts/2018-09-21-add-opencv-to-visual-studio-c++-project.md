@@ -55,6 +55,7 @@ This might be obvious but I will write anyway. If you run into a problem, read t
 1. Do you have x64 selected as Solutions Platform?
 2. Check if the paths you have pasted are correct and if the folders exist.
 3. If you have downloaded a different version of OpenCV, you will have slightly changed paths and library filename. Make suitable changes.
+4. If you can't find a window, reset your window-layout in Visual Studio. Choose Window > Reset Window Layout.
 
 Improvise, Overcome, Adapt!
 
