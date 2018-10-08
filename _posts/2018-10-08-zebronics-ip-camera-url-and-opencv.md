@@ -32,15 +32,19 @@ Example OpenCV Application for a Video Source,
 
 int main(int argc, char* argv[])
 {
+	// make video source
 	cv::VideoCapture capture("rtsp://admin:admin@192.168.1.168:554/h264_stream");
 
+	// open and check if opened properly
 	if (!capture.isOpened()) {
 		//Error
 		return -1;
 	}
 
+	// create a window called TEST
 	cv::namedWindow("TEST", CV_WINDOW_AUTOSIZE);
 	
+	// begin grabbing frames from video source
 	while (1) {
 		if (!capture.read(frame)) {
 			//Error
