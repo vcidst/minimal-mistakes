@@ -26,7 +26,7 @@ The `rtsp-transport` flag forces TCP over UDP. I used it because I couldn't get 
 
 Example OpenCV Application for a Video Source,
 
-```
+```cpp
 #include <opencv2/core/core.hpp>
 #include <opencv2/highgui/highgui.hpp>
 
