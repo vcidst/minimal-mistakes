@@ -4,8 +4,6 @@ classes: wide
 permalink: /about/
 title: "About this Site"
 author_profile: true
-tags: 
-	- about
 comments: false
 ---
 
