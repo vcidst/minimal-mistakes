@@ -1,5 +1,5 @@
 ---
-title: "Comparing my answers after a coding interview that did not allow searching the web"
+title: "Coding Interviews Cannot Happen Without Internet Access"
 categories:
   - opinion
 tags:
@@ -7,7 +7,7 @@ tags:
   - interview
 ---
 
-I just got out of a coding interview. These have been happening a lot lately but I would mention this in particular because I failed miserably in this one. Only because of one condition - searching the internet during the coding interview is not allowed. 
+I just got out of a coding interview. These have been happening a lot lately but I would mention this in particular because I failed miserably in this one. Only because of one condition - searching the internet during the coding interview is not allowed.
 
 Here were the questions, what I answered and the actual answers. These question were asked on a phonecall while both of us have a shared notepad(collabedit) open in browser. The phonecall went for 20 minutes and I guess the coding interview lasted for some 10 minutes.
 
@@ -30,9 +30,9 @@ foreach letter in a:
 
 This isn't javascript. I don't know what would compile this but while lacking the actual syntax I was only trying to put forward the solution. It would be to
 1. iterate through every letter of the word
-2. search this letter in the word with a counter variable incrementing on each step
-2a. if the letter would be non-repeating, then its counter would be 1 after the loop
-3. We check the counter if it is 1 and publish our findings if that is the case.
+2. search this letter in the word with a counter variable incrementing on each step   
+3. if the letter would be non-repeating, then its counter would be 1 after the loop   
+4. We check the counter if it is 1 and publish our findings if that is the case.   
 
 #### Actual answer
 ```js
