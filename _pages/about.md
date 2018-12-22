@@ -1,7 +1,9 @@
 ---
 layout: single
-title: About
-tags: 
+classes: wide
+permalink: /about/
+title: "About this Site"
+author_profile: true
 comments: false
 ---
 
