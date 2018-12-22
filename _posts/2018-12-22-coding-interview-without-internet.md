@@ -34,7 +34,7 @@ This isn't javascript. I don't know what would compile this but while lacking th
 2a. if the letter would be non-repeating, then its counter would be 1 after the loop
 3. We check the counter if it is 1 and publish our findings if that is the case.
 
-####Actual answer
+#### Actual answer
 ```js
 // find the first non-repeating letter in a string
 var a = 'tagtaste';
@@ -81,7 +81,7 @@ var myobject = new myclass();
 
 This is obviously incorrect syntax. A curosry google search reveals that the correct way to do it is,
 
-####Actual Answer
+#### Actual Answer
 ```js
 var car = {type:'sedan', make:'tesla', color:'fuschia'};
 ``` 
@@ -93,7 +93,7 @@ var car = {type:'sedan', make:'tesla', color:'fuschia'};
 
 I answered that === is safe comparison and == is unsafe comparison. === probably checks for the equality of both type and value while == does not do that. Usage of == sometimes allows non-intuitive answers which is why === is prefrerred over ==.
 
-####Actual answer:
+#### Actual answer:
 A quick google search confirms my answer.
 
 ## 4
@@ -103,7 +103,7 @@ A quick google search confirms my answer.
 
 I told him that I am not aware of this term.
 
-####Actual answer:
+#### Actual answer:
 So, sharding seems to be breaking up a table into smaller tables. You can do that either horizontally -- store all columns but only limited rows in each quanta. Or, you can break the table vertically, store all rows but only limited columns. One can of course also mix the two ways.
 
 ## 5
@@ -114,7 +114,7 @@ var x = 'collabedit';
 
 I was too fixated on the idea of slicing that I did not consider using a for-loop. I answered that if slicing is possible in JS then `x[x.length()-1]` might be a possible solution.
 
-####Actual answer:
+#### Actual answer:
 ```js
 // print the last letter of a string
 var x = 'collabedit';
@@ -143,7 +143,7 @@ for(var i=0;i<x.length;i++) {
 
 This is an anonymous function initualized and also called. I do not know what setTimeout() does.
 
-####Actual answer:
+#### Actual answer:
 ```
 // intuitive answer
 // search setTimeout() -- it evaluates a function after n milliseconds
