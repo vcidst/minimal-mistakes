@@ -19,8 +19,8 @@ var a = 'tagtaste';
 
 I don't remember the comment character in javascript. I just guessed and checked the code highlighter for validation. This was like javascript rapid fire,
 
-My answer
-```
+#### My answer
+```js
 foreach letter in a:
     search letter in a:
         counter++;
@@ -63,7 +63,7 @@ This solution is much better than the past one because it took 10 extra minutes 
 
 I don't know the syntax so I tried. An object is only an instance of the class. Thus creating an object would first require creating a class and then creating an instance of it.
 
-My answer:
+#### My answer:
 ```js
 // create an object        
 class myclass() {
@@ -91,7 +91,7 @@ var car = {type:'sedan', make:'tesla', color:'fuschia'};
 // what is the difference between == and ===?
 ```
 
-I answered that === is safe comparison and == is unsafe comparison. === probably checks for the equality of both type and value while == does not do that. Usage of == sometimes allows non-intuitive answers which is why === is prefrerred over ==.
+I answered that `===` is safe comparison and `==` is unsafe comparison. `===` probably checks for the equality of both type and value while `==` does not do that. Usage of `==` sometimes allows non-intuitive answers which is why `===` is prefrerred over `==`.
 
 #### Actual answer:
 A quick google search confirms my answer.
@@ -107,7 +107,7 @@ I told him that I am not aware of this term.
 So, sharding seems to be breaking up a table into smaller tables. You can do that either horizontally -- store all columns but only limited rows in each quanta. Or, you can break the table vertically, store all rows but only limited columns. One can of course also mix the two ways.
 
 ## 5
-```
+```js
 // print the last letter of a string
 var x = 'collabedit';
 ```
@@ -130,7 +130,7 @@ for(var i=0;i<x.length;i++) {
 ```
 
 ## 6
-```
+```js
 // what does the following code print?
 
 (function() {
@@ -141,10 +141,10 @@ for(var i=0;i<x.length;i++) {
 })();
 ```
 
-This is an anonymous function initualized and also called. I do not know what setTimeout() does.
+This is an anonymous function initialized and also called. I do not know what setTimeout() does.
 
 #### Actual answer:
-```
+```js
 // intuitive answer
 // search setTimeout() -- it evaluates a function after n milliseconds
 1
@@ -162,7 +162,7 @@ undefined
 // discussion on the specifics of the above result is outside the scope of current discussion
 ```
 
-
+---
 # Banning Internet Access during an Interview is a silly idea
 This seems like a rather silly and pointless condition to me for a few reasons
 
