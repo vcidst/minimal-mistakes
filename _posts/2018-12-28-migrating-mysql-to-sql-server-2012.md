@@ -60,7 +60,7 @@ I thought the this would be it and migration is done but currently all the table
 ### Moving all tables to the default [dbo] schema,
 19. Open SQL Management Studio and connect to SQL Server. Open a new query window and choose 'foobar' database  
 20. Execute the following query, it prints out strings which are commands to move every single table to [dbo]. Please replace OldSchemaName to the current schema name.
-Thanks to Anar Khalilov on SO for this query ( https://stackoverflow.com/a/17571234 )    
+Thanks to [Anar Khalilov on SO](https://stackoverflow.com/a/17571234) for this query
 
 ```sql
 
