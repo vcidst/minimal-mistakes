@@ -61,6 +61,7 @@ I thought the this would be it and migration is done but currently all the table
 19. Open SQL Management Studio and connect to SQL Server. Open a new query window and choose 'foobar' database  
 20. Execute the following query, it prints out strings which are commands to move every single table to [dbo]. Please replace OldSchemaName to the current schema name.
 Thanks to Anar Khalilov on SO for this query ( https://stackoverflow.com/a/17571234 )    
+
 ```sql
 
 SELECT 'ALTER SCHEMA dbo TRANSFER [' + SysSchemas.Name + '].[' + DbObjects.Name + '];'
