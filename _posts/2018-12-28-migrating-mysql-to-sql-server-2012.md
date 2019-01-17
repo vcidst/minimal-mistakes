@@ -25,7 +25,9 @@ Load this .sql file to SQL Server 2012
 ### Approach:
 2. Install WAMP > open PHPMyAdmin > make new database > import .sql file
 3. Try to migrate this new database to SQL Server
-(to open PHPMyAdmin after installing WAMP > open localhost in a browser > click on PHPMyAdmin > login with 'root' and leave password empty)
+
+**HowTo!** to open PHPMyAdmin after installing WAMP > open localhost in a browser > click on PHPMyAdmin > login with 'root' and leave password empty
+{: .notice--info}
 
 ### What still doesn't work,
 4. PHPMyAdmin > SQL Server compatible Export of .SQL file
@@ -43,7 +45,9 @@ Before that, make sure a few things
 #### Things to make sure for MySQL
 10. Inbound connections on port(3306) are open on the server running instance of MySQL - my web server in this case
 11. You have created a new user from PHPMyAdmin for the database to migrate.
-(To create new user: Click on database in PHPMyAdmin > Go to Privileges tab > create new user)
+
+**HowTo!** To create new user: Click on database in PHPMyAdmin > Go to Privileges tab > create new user
+{: .notice-info}
 
 ### Migration Assistant,   
 I am doing this on the local network PC that is able to connect to both the servers
