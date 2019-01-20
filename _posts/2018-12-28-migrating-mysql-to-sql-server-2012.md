@@ -46,8 +46,8 @@ Before that, make sure a few things
 10. Inbound connections on port(3306) are open on the server running instance of MySQL - my web server in this case
 11. You have created a new user from PHPMyAdmin for the database to migrate.
 
-**HowTo!** To create new user: Click on database in PHPMyAdmin > Go to Privileges tab > create new user   
-{: .notice--info}
+**HowTo!** To create new user: Click on database in PHPMyAdmin > Go to Privileges tab > create new user
+{: .notice-info}
 
 ### Migration Assistant,   
 I am doing this on the local network PC that is able to connect to both the servers
