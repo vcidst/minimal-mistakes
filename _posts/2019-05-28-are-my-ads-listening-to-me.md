@@ -37,11 +37,9 @@ There are so many possibilities that it is unfair to narrow it down to AI Parano
 
 Now let us assume that this was not a case of frequency illusion and your phone is indeed snooping on you. How would such a system work though? Much like any smart speaker out there but still more intensive. Such a snooper would have to,
 
-1. Listen to all sound all the time
-
-2. Process this information locally; or
-
-3. If the processing is not done locally, send the livestream audio to the cloud for interpretation. From the perspective of data usage, this is like being on a voice call all the time.
+1. Listen to all sound all the time  
+2. Process this information locally; or  
+3. If the processing is not done locally, send the livestream audio to the cloud for interpretation. From the perspective of data usage, this is like being on a voice call all the time.  
 
 This is fundamentally different from Amazon Echo (or any other smart speaker) because while it is listening to you all the time, they claim to only listening to the wakeword. 
 
