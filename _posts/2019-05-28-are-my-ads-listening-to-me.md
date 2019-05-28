@@ -5,10 +5,10 @@ categories:
 tags:
   - explainer
   - AI
+excerpt: "Rekha sees an airline ad right after a conversation with a friend about her travel plans. Was this result of a deceptive advertising-AI that was listening to all her conversations? Turns out there are simpler explanations"
 ---
 
-## Overview
-
+## Overview  
 Rekha sees an airline ad right after a conversation with a friend about her travel plans. Was this result of a deceptive advertising-AI that was listening to all her conversations? Turns out there are simpler explanations
 
 ---
@@ -49,19 +49,13 @@ This is fundamentally different from Amazon Echo (or any other smart speaker) be
 
 Once the information is received by whoever is going to process it, they will have to
 
-1. Subtract all ambient noise
-
-2. Identify the language of the conversation
-
-3. Extract text from the speech
-
-4. Extract keywords from the text
-
-5. It might be embarrassing to target advertisements to Rekha for something that only Rahul talked about. To deal with this problem, this system must also ID the person from their voice. The extracted keywords are then split into groups for every speaker involved in the conversation.
-
-6. It might also be embarrassing to target advertisements to Rekha for something she did not talk about at all. For this, the system would need to have a really low false-positive rate. Meaning it must also attach some kind of confidence score on the keywords it has been able to extract. This score will be a metric of how confident the system is in its prediction.
-
-6. These groups of keywords would perhaps then be sent to the advertising engine along with the ID of their speakers and the respective confidence score of each keyword.
+1. Subtract all ambient noise   
+2. Identify the language of the conversation   
+3. Extract text from the speech   
+4. Extract keywords from the text    
+5. It might be embarrassing to target advertisements to Rekha for something that only Rahul talked about. To deal with this problem, this system must also ID the person from their voice. The extracted keywords are then split into groups for every speaker involved in the conversation.    
+6. It might also be embarrassing to target advertisements to Rekha for something she did not talk about at all. For this, the system would need to have a really low false-positive rate. Meaning it must also attach some kind of confidence score on the keywords it has been able to extract. This score will be a metric of how confident the system is in its prediction.    
+6. These groups of keywords would perhaps then be sent to the advertising engine along with the ID of their speakers and the respective confidence score of each keyword.    
 
 The process I describe above is still minimalist to a great extent because it does not involve the system trying to gain a contextual understanding of the text. It does not also try to resolve ambiguities of spoken human language. Currently, it does not even try to get more information through other sensors in the phone like GPS, accelerometer, cameras, etc.
 
@@ -103,9 +97,10 @@ The power of deductive reasoning lies in the fact that while scaling up these pr
 
 ---
 
-**Thanks** to Karan Kamdar for helping to edit this and to Archit Khode, Divye Walwani for reading early drafts of this essay and their helpful inputs.
+**Thanks** to Karan Kamdar for helping to edit this and to Archit Khode, Divye Walwani for reading early drafts of this essay and their helpful inputs.   
 {: .notice-info}
 
 ## References
+
 [google-ad-sources]: Google Ads Help - [Targeting Your Ads](https://support.google.com/google-ads/answer/1704368?hl=en)
 
