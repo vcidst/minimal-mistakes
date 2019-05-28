@@ -5,19 +5,7 @@ categories:
 tags:
   - explainer
   - AI
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: false
-      read_time: true
-      comments: true
-      share: true
-      related: true
-
+author_profile: false
 ---
 
 Rekha sees an airline ad right after a conversation with a friend about her travel plans. Was this result of a deceptive advertising-AI that was listening to all her conversations? Turns out there are simpler explanations
