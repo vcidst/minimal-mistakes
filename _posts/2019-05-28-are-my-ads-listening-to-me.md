@@ -16,7 +16,7 @@ Rekha is out for an evening stroll. She runs into her neighbour Keshav and they 
 
 I believe this is a case of paranoia about the state of Artificial Intelligence. Before we take on  the technical side of things, let me offer perhaps a simpler explanation to this incident. The exact details of audience targeting remains a secret on the end of ad publishers but a rough idea about what kind of information is used in targeting has been available publicly. [An information page by Google](https://support.google.com/google-ads/answer/1704368?hl=en) describes they make use of demographics, affinity, intent, similarity to select an audience for a specific ad. It also acknowledges of making use of user search history to aid this process. 
 
-It is important for ad publishers to disclose their sources because it reforces advertiser’s trust in the medium and justifies the cost they are paying for these ads.
+It is important for ad publishers to disclose their sources because it reinforces advertiser’s trust in the medium and justifies the cost they are paying for these ads.
 
 ![A Snoop Phone appears in the wild](/images/snoop-phone.svg)
 
