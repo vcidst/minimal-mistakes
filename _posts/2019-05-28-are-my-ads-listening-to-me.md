@@ -7,6 +7,12 @@ tags:
   - AI
 ---
 
+## Overview
+
+Rekha sees an airline ad right after a conversation with a friend about her travel plans. Was this result of a deceptive advertising-AI that was listening to all her conversations? Turns out there are simpler explanations
+
+---
+
 Rekha is out for an evening stroll. She runs into her neighbour Keshav and they make small talk. Rekha mentions her plan to visit Kolkata next month for a music concert. Later at home, scrolling through her instagram feed, there’s an ad for a flight to Kolkata. This is somewhat spooky. She is convinced the ad is targeted based on her conversation with Keshav, earlier. There is a lot going on about Artificial Intelligent systems around in the news anyway.
 
 I believe this is a case of paranoia about the state of Artificial Intelligence. Before we take on  the technical side of things, let me offer perhaps a simpler explanation to this incident. The exact details of audience targeting remains a secret on the end of ad publishers but a rough idea about what kind of information is used in targeting has been available publicly. An information page by Google^[google-ad-sources] describes they make use of demographics, affinity, intent, similarity to select an audience for a specific ad. It also acknowledges of making use of user search history to aid this process. 
