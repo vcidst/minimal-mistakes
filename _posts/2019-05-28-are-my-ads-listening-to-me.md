@@ -40,7 +40,7 @@ Now let us assume that this was not a case of frequency illusion and your phone 
 2. Process this information locally; or  
 3. If the processing is not done locally, send the livestream audio to the cloud for interpretation. From the perspective of data usage, this is like being on a voice call all the time.  
 
-This is fundamentally different from Amazon Echo (or any other smart speaker) because while it is listening to you all the time, they claim to only listening to the wakeword. 
+This is fundamentally different from Amazon Echo (or any other smart speaker) because while it is listening to you all the time, they claim to be only listening to the wakeword. 
 
 > Echo devices use on-device keyword spotting designed to detect when a customer says the wake word. This technology inspects acoustic patterns in the room to detect when the wake word has been spoken using a short, on-device buffer that is continuously overwritten.This on-device buffer exists in temporary memory (RAM); audio is not recorded to any on-device storage. The device does not stream audio to the cloud until the wake word is detected or the action button on the device is pressed. If it does not detect the wake word or if the action button is not pressed, no audio is sent to the cloud.
 
