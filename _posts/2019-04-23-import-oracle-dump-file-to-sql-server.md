@@ -57,7 +57,7 @@ Before that, make sure a few things
 11. You have created a new user from PHPMyAdmin for the database to migrate.
 
 **HowTo!** To create new user: Click on database in PHPMyAdmin > Go to Privileges tab > create new user.
-{: .notice-info}
+{: .notice--info}
 
 ### Migration Assistant,   
 I am doing this on the local network PC that is able to connect to both the servers
