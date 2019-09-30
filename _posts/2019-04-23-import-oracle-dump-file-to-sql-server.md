@@ -27,7 +27,7 @@ Move everything into SQL Server 2012 and look at the database
 ### Restoring dump file
 Thanks to Andrew on StackExchange DBA^[se-dba]
 
-4. Open Powershell on Windows. Replace your password with password in the command below 
+4. Open Powershell on Windows. Replace your password with password in the command below.  
 ```
 C:\>sqlplus system/password
 
@@ -35,7 +35,8 @@ SQL> create user CLIENT_TEST identified by client_test_password;
 SQL> grant connect, unlimited tablespace, resource to CLIENT_TEST;
 SQL> exit
 ```
-5. Once that is done, since I knew the database was imported by TCL -- I'll tell Oracle so. Note that I don't full the full parameter as it threw me an error that I cannot use it with FROMUSER parameter.
+
+5. Once that is done, since I knew the database was imported by TCL -- I'll tell Oracle so. Note that I don't full the full parameter as it threw me an error that I cannot use it with FROMUSER parameter.   
 ```
 C:\>imp system/password FROMUSER=TCL TOUSER=client_test file=c:\database.dmp
 ```
