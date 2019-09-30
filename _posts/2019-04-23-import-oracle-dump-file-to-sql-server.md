@@ -93,6 +93,6 @@ In my case, I further ran into problems making this CodeIgniter script work with
 
 ## Links
 
-[oracle-db]: Install Oracle Database 11g from [here](https://www.oracle.com/technetwork/database/enterprise-edition/downloads/112010-win64soft-094461.html)
-[oracle-dev]: Install Oracle SQL Developer from [here](https://www.oracle.com/technetwork/developer-tools/sql-developer/downloads/index.html)
-[se-dba]: Andrew's answer on [StackExchange DBA](https://dba.stackexchange.com/questions/23390/import-a-oracle-dmp-file-into-a-fresh-install-of-oracle)
+[oracle-db]: https://www.oracle.com/technetwork/database/enterprise-edition/downloads/112010-win64soft-094461.html
+[oracle-dev]: https://www.oracle.com/technetwork/developer-tools/sql-developer/downloads/index.html
+[se-dba]: https://dba.stackexchange.com/questions/23390/import-a-oracle-dmp-file-into-a-fresh-install-of-oracle
