@@ -18,20 +18,17 @@ This populates pages.txt with number of pages in each PDF it comes across in the
 ### How it works,
 
 1. This tells you the number of pages in a PDF file
-```
+```powershell
 > cpdf.exe -pages sample-pdf-file.pdf
 ```
 
 2. `FORFILES` in Command Prompt (check `FORFILES /?` for help) lets you execute a command for a set of files. 
+```powershell
+> forfiles /s /m *.pdf /c "cmd /c echo @file"
+# `/s` flag tells it to look into sub-directories.
+# `/m *.pdf` searches only PDF files.   
+# `/c "cmd /c echo @file"` tells it to run `echo @file` command in cmd.   
 ```
-forfiles /s /m *.pdf /c "cmd /c echo @file"
-```
-
-`/s` flag tells it to look into sub-directories. 
-
-`/m *.pdf` searches only PDF files.
-
-`/c "cmd /c echo @file` tells it to run `echo @file` command in cmd.
 
 3. Use `>>` to append stdout output to pages.txt
 
