@@ -90,8 +90,6 @@ That's it. You have finally migrated all your tables and data to a new database 
 
 In my case, I further ran into problems making this CodeIgniter script work with SQL Server but this is enough for this post. Hope this helped!
 
-## Links
-
 [oracle-db]: https://www.oracle.com/technetwork/database/enterprise-edition/downloads/112010-win64soft-094461.html
 [oracle-dev]: https://www.oracle.com/technetwork/developer-tools/sql-developer/downloads/index.html
 [se-dba]: https://dba.stackexchange.com/questions/23390/import-a-oracle-dmp-file-into-a-fresh-install-of-oracle
