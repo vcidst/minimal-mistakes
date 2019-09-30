@@ -15,7 +15,7 @@ I needed to know the total number of pages in hundreds of PDFs. Thanks to [cpdf 
 
 This populates pages.txt with number of pages in each PDF it comes across in the directory (and sub-directories) it has been run in. You can then paste pages.txt into any spreadsheet to calculate the sum of the series. 
 
-Here's how it works,
+### How it works,
 
 1. This tells you the number of pages in a PDF file
 ```
@@ -28,7 +28,9 @@ forfiles /s /m *.pdf /c "cmd /c echo @file"
 ```
 
 `/s` flag tells it to look into sub-directories. 
+
 `/m *.pdf` searches only PDF files.
+
 `/c "cmd /c echo @file` tells it to run `echo @file` command in cmd.
 
 3. Use `>>` to append stdout output to pages.txt
