@@ -7,7 +7,7 @@ tags:
 author_profile: false
 ---
 
-I needed to know the total number of pages in hundreds of PDFs. Thanks to [cpdf - Coherent PDF Command Line Tools] I was able to get this done from the Windows Command Prompt on Windows 8.1. Here's the command I used,
+I needed to know the total number of pages in hundreds of PDFs. Thanks to [cpdf - Coherent PDF Command Line Tools](http://community.coherentpdf.com/) I was able to get this done from the Windows Command Prompt on Windows 8.1. Here's the command I used,
 
 ```
 > forfiles /s /m *.pdf /c "cmd /c C:\Users\Admin\Documents\cpdf\cpdf.exe -pages @path >> C:\Users\Admin\Documents\pages.txt && echo. >> C:\Users\Admin\Documents\pages.txt"
