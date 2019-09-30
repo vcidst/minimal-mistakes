@@ -28,7 +28,8 @@ Move everything into SQL Server 2012 and look at the database
 Thanks to Andrew on StackExchange DBA^[se-dba]
 
 4. Open Powershell on Windows. Replace your password with password in the command below.  
-```
+
+```sql
 C:\>sqlplus system/password
 
 SQL> create user CLIENT_TEST identified by client_test_password;
