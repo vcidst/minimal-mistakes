@@ -77,14 +77,13 @@ I thought the this would be it and migration is done but currently all the table
 Thanks to [Anar Khalilov on SO](https://stackoverflow.com/a/17571234) for this query
 
 ```sql
-
 SELECT 'ALTER SCHEMA dbo TRANSFER [' + SysSchemas.Name + '].[' + DbObjects.Name + '];'
 FROM sys.Objects DbObjects
 INNER JOIN sys.Schemas SysSchemas ON DbObjects.schema_id = SysSchemas.schema_id
 WHERE SysSchemas.Name = 'OldSchemaName'
 AND (DbObjects.Type IN ('U', 'P', 'V'))
-
 ```
+
 21. Copy all the rows from the result > paste them in a new query window > Execute
 
 That's it. You have finally migrated all your tables and data to a new database on SQL Server. I really hope there is an easier way than what I have described but I looked up a lot and did not come across any. Why does it have to be this convoluted anyway?
