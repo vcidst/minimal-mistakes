@@ -6,13 +6,13 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /images/self-2020.jpg
-  caption: "Me in front of Jag Mandir, Lake Pichola at Udaipur"
+  caption: "In front of Jag Mandir, Lake Pichola at Udaipur"
 excerpt: "Software Engineer, Generalist, Maker"
 projects:
   - image_path: /images/banner-projects.JPG
     alt: " Projects "
     title: "Things I've Made"
-    excerpt: 'I have a background in web applications, destop & console applications, design and machine vision. Take a look at everyting I've made"
+    excerpt: "I have a background in web applications, destop & console applications, design and machine vision. Take a look at everyting I've made"
     url: "/projects/"
     btn_label: "Show me your Projects"
     btn_class: "btn--info"
