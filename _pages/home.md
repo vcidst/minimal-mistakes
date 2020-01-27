@@ -1,5 +1,4 @@
 ---
-title: "Shailendra Paliwal"
 layout: splash
 permalink: /
 header:
