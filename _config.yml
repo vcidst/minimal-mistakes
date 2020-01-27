@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : *name
-  avatar           : bio-photo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : images/self-2016.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Interested in intersections of technology, math, culture and history"
   location         : "Udaipur"
   email            : "hello@shailendra.me"
