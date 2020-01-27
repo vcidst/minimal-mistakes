@@ -8,7 +8,7 @@ header:
   overlay_image: /images/banner-sunsetatdwarka.jpg
   caption: "Sunset at India's Westernmost Sunset Point at Dwarka, Gujarat"
 web_intro: 
-  - excerpt: '##Web Applications'
+  - excerpt: '# Web Applications'
 feature_kolam:
   - image_path: /images/project-kolam.png
     alt: " Kolam Generator "
@@ -26,7 +26,7 @@ feature_knowyourmp:
     btn_label: "Open Know Your MP"
     btn_class: "btn--primary"
 desktop_intro: 
-  - excerpt: '##Desktop and Console Applications'
+  - excerpt: '# Desktop and Console Applications'
 feature_bridges:
   - image_path: /images/project-bridgeconnect.png
     alt: " Know Your MP "
@@ -54,7 +54,7 @@ feature_row:
     title: "Terminal Twitter"
     excerpt: "A terminal client for Twitter that also lets you find interesting users at any city. Built with Python"
 ml_intro: 
-  - excerpt: '## Machine Learning and Computer Vision'
+  - excerpt: '# Machine Learning and Computer Vision'
 feature_qualitytest:
   - image_path: /images/sample-image-4.jpg
     alt: " Quality Testing "
