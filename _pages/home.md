@@ -8,7 +8,15 @@ header:
   overlay_image: /images/self-2020.jpg
   caption: "Me in front of Jag Mandir, Lake Pichola at Udaipur"
 excerpt: "Software Engineer, Generalist, Maker"
-feature_row2:
+projects:
+  - image_path: /images/banner-projects.JPG
+    alt: " Projects "
+    title: "Things I've Made"
+    excerpt: 'I have a background in web applications, destop & console applications, design and machine vision. Take a look at everyting I've made"
+    url: "/projects/"
+    btn_label: "Show me your Projects"
+    btn_class: "btn--info"
+blog:
   - image_path: /images/blog-feature.JPG
     alt: "/ blog /"
     title: "Shailendra's Blog"
@@ -18,4 +26,5 @@ feature_row2:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="projects" type="right" %}
+{% include feature_row id="blog" type="left" %}

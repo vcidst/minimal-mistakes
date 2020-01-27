@@ -60,15 +60,33 @@ feature_qualitytest:
     alt: " Quality Testing "
     title: "Machine Vision based LCD/LED Quality Testing"
     excerpt: "A software toolkit to perform automated visual inspection on displays based on LED or LCD using a camera. We've defined multiple tests that can be used to check for soldering issues, dead pixels and uneven contrast/brightness problems right on the assembly line. Built with C#.NET and OpenCV"
+design_intro: 
+  - excerpt: '# Design and Typography'
+feature_design:
+  - image_path: /images/project-stelms.jpg
+    alt: " Brand for Stelms "
+    title: "Brand Identity for Stelms"
+    excerpt: "Logo, Letterpads, Business Card and other creatives for a friend's company"
+  - image_path: /images/project-newsflash.jpg
+    alt: " NewsFlash Layout "
+    title: "Layout Design for NewsFlash"
+    excerpt: "I was in-charge of layout and typography for NewsFlash magazine during annual cultural festival at my engineering college"
+  - image_path: /images/project-jmag.jpg
+    alt: " JMAG "
+    title: "Layout Design for JMag"
+    excerpt: "Released multiple magazines during my tenure at JMAG over a period of two years"
 ---
 
 {% include feature_row id="web_intro" type="center" %}
 {% include feature_row id="feature_kolam" type="left" %}
 {% include feature_row id="feature_knowyourmp" type="left" %}
 
-{% include feature_row id="desktop_intro" type="center" %}
-{% include feature_row id="feature_bridges" %}
-{% include feature_row %}
-
 {% include feature_row id="ml_intro" type="center" %}
 {% include feature_row id="feature_qualitytest" type="left" %}
+
+{% include feature_row id="desktop_intro" type="center" %}
+{% include feature_row %}
+{% include feature_row id="feature_bridges" %}
+
+{% include feature_row id="design_intro" type="center" %}
+{% include feature_row id="feature_design" %}
