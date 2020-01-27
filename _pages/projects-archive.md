@@ -68,8 +68,8 @@ feature_qualitytest:
 {% include feature_row id="feature_knowyourmp" type="left" %}
 
 {% include feature_row id="desktop_intro" type="center" %}
-{% include feature_bridges %}
-{% include feature_terminal %}
+{% include feature_row id="feature_bridges" %}
+{% include feature_row id="feature_terminal" %}
 
 {% include feature_row id="ml_intro" type="center" %}
 {% include feature_row id="feature_qualitytest" type="left" %}
