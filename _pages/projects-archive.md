@@ -63,18 +63,27 @@ feature_qualitytest:
 design_intro: 
   - excerpt: '# Design and Typography'
 feature_design:
-  - image_path: /images/project-stelms.jpg
+  - image_path: /images/project-stelms.png
     alt: " Brand for Stelms "
     title: "Brand Identity for Stelms"
     excerpt: "Logo, Letterpads, Business Card and other creatives for a friend's company"
-  - image_path: /images/project-newsflash.jpg
+    url: "https://www.behance.net/gallery/44077297/Stelms"
+    btn_label: "Project on Behance"
+    btn_class: "btn--primary"
+  - image_path: /images/project-newsflash.png
     alt: " NewsFlash Layout "
     title: "Layout Design for NewsFlash"
     excerpt: "I was in-charge of layout and typography for NewsFlash magazine during annual cultural festival at my engineering college"
-  - image_path: /images/project-jmag.jpg
+    url: "https://issuu.com/ziscore/docs/news_flash_hq"
+    btn_label: "Browse NewsFlash"
+    btn_class: "btn--primary"
+  - image_path: /images/project-jmag.png
     alt: " JMAG "
     title: "Layout Design for JMag"
     excerpt: "Released multiple magazines during my tenure at JMAG over a period of two years"
+    url: "https://issuu.com/j-mag/docs/jmag-7th-edition"
+    btn_label: "Browse JMag"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="web_intro" type="center" %}
