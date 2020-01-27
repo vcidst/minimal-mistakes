@@ -46,7 +46,7 @@ feature_row:
     alt: " SearchIA "
     title: "SearchIA"
     excerpt: "Command Line power tool to search Internet Archive for all media right from the Terminal. Built with Internet Archive API and Python"
-  - image_path: /images/sample-image-1.jpg
+  - image_path: /images/sample-image-3.jpg
     alt: " Hypernormal-Typewriter "
     title: "Hypernormal Typewriter"
     excerpt: "A command line text editor that promised distraction free research and collaboration tools. It turned out to be a vapourware and never saw the light of the day. Built with curses library and Python"
