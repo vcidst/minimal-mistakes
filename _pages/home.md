@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /images/self-2020.jpg
-  caption: "In front of Jag Mandir, Lake Pichola at Udaipur"
+  caption: "Behind me - [Jag Mandir](https://en.wikipedia.org/wiki/Jag_Mandir), Lake Pichola at Udaipur"
 excerpt: "Software Engineer, Generalist, Maker"
 projects:
   - image_path: /images/feature-projects.jpg
