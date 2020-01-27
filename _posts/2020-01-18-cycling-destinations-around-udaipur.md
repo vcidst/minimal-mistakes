@@ -6,8 +6,8 @@ tags:
   - travel
 author_profile: false
 header:
-	overlay_image: /images/cycling-dhar.jpg
-	caption: "Sunrise hues over hills near Dhar"
+  overlay_image: /images/cycling-dhar.jpg
+  caption: "Sunrise hues over hills near Dhar"
 ---
 
 Udaipur sits in the foothills of Aravali Mountain Range that goes all the way from South Rajasthan to Gurgaon in North. Also called the city of lakes, it offers some great escapes not too far from the city. I've been cycling in Udaipur for about two years and exploring new routes always keeps me hooked on mountain biking in this region.
