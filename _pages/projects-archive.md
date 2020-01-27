@@ -50,7 +50,7 @@ feature_terminal:
     alt: " Hypernormal-Typewriter "
     title: "Hypernormal Typewriter"
     excerpt: "A command line text editor that promised distraction free research and collaboration tools. It turned out to be a vapourware and never saw the light of the day. Built with curses library and Python"
-  - image_path: /images/sample-image-3.jpg
+  - image_path: /images/sample-image-5.jpg
     alt: " Command Line Twitter "
     title: "Terminal Twitter"
     excerpt: "A terminal client for Twitter that also lets you find interesting users at any city. Built with Python"
@@ -68,8 +68,8 @@ feature_qualitytest:
 {% include feature_row id="feature_knowyourmp" type="left" %}
 
 {% include feature_row id="desktop_intro" type="center" %}
-{% include feature_row id="feature_bridges" type="left" %}
-{% include feature_row id="feature_terminal" type="left" %}
+{% include feature_bridges %}
+{% include feature_terminal %}
 
 {% include feature_row id="ml_intro" type="center" %}
 {% include feature_row id="feature_qualitytest" type="left" %}
