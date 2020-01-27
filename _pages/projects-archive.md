@@ -41,7 +41,7 @@ feature_bridges:
     alt: " Serial-To-File "
     title: "Serial-To-File"
     excerpt: "A console application that reads weight from serial communication based WeighBridge Controllers and overwrites it in a file. It adapts to all the string formats used across manufacturers. Built with C#.NET"
-feature_terminal:
+feature_row:
   - image_path: /images/sample-image-2.jpg
     alt: " SearchIA "
     title: "SearchIA"
@@ -68,8 +68,9 @@ feature_qualitytest:
 {% include feature_row id="feature_knowyourmp" type="left" %}
 
 {% include feature_row id="desktop_intro" type="center" %}
+{% include feature_row id="feature_bridgeconnect" type="left" %}
 {% include feature_row id="feature_bridges" %}
-{% include feature_row id="feature_terminal" %}
+{% include feature_row %}
 
 {% include feature_row id="ml_intro" type="center" %}
 {% include feature_row id="feature_qualitytest" type="left" %}
