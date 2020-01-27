@@ -18,7 +18,7 @@ projects:
     btn_label: "Show me your Projects"
     btn_class: "btn--info"
 blog:
-  - image_path: /images/feature-blog.jpg
+  - image_path: /images/feature-blog.JPG
     alt: "/ blog /"
     title: "Shailendra's Blog"
     excerpt: 'There was a phase I wanted to pursue Science Journalism, then there was a time I was learning about Data Science, then I was involved in rebuilding some old systems & wrote about my pain points. This is where everything goes.'
