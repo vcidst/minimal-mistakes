@@ -5,6 +5,9 @@ categories:
 tags:
   - travel
 author_profile: false
+header:
+	overlay_image: /images/cycling-dhar.jpg
+	caption: "Sunrise hues over hills near Dhar"
 ---
 
 Udaipur sits in the foothills of Aravali Mountain Range that goes all the way from South Rajasthan to Gurgaon in North. Also called the city of lakes, it offers some great escapes not too far from the city. I've been cycling in Udaipur for about two years and exploring new routes always keeps me hooked on mountain biking in this region.
@@ -14,12 +17,16 @@ This article is an attempt to collate some great cycle routes around the city th
 ### Nandeshwar and Chokadiya
 ##### \~40 km
 
+![a countryside road near Chokadiya](/images/cycling-chokadiya.jpg)
+
 Nandeshwar is a Shiv Temple with a lake nearby. There's a calm paved road that goes around the Nandeshwar Lake to the neighbouring village of Chokadiya that makes for a great ride. 
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2669171717/embed/e91aef95bae91724dbd9bc4e264229200a5db329'></iframe>
 
 ### Dhar and Madar Lakes
 ##### 70 km
+
+![Trail around Madar Lake](/images/cycling-badamadar.jpg)
 
 The route offers 5 lakes (Pichola, Fateh Sagar, Badi, Chota Madar and Bada Madar). There's a sizable portion of the route that isn't paved, particularly the portion near Dhar and around Bada Madar lake. This is one of my favorite routes around the city. It also includes a descent on National Highway which might take you to speeds upto 70 kmph on your way back
 
