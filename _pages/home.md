@@ -1,7 +1,7 @@
 ---
 title: Shailendra Paliwal
 layout: splash
-permalink: /home/
+permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
@@ -14,7 +14,7 @@ feature_row2:
     title: "Shailendra's Blog"
     excerpt: 'There was a phase I wanted to pursue Science Journalism, then there was a time I was learning about Data Science, then I was involved in rebuilding some old systems & wrote about my pain points. This is where everything goes.'
     url: "/blog/"
-    btn_label: "Read More"
+    btn_label: "Take me to the Blog"
     btn_class: "btn--primary"
 ---
 
