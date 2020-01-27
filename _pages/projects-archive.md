@@ -27,12 +27,11 @@ feature_knowyourmp:
     btn_class: "btn--primary"
 desktop_intro: 
   - excerpt: 'Desktop and Console Applications'
-feature_bridgeconnect:
+feature_bridges:
   - image_path: /images/project-bridgeconnect.png
     alt: " Know Your MP "
     title: "BridgeConnect"
     excerpt: "A simple no-nonsense ERP solution for Public Weighbridges. The application is written in C#.NET with frontend made in WPF and uses an SQLite database"
-feature_bridges:
   - image_path: /images/project-syncbridge.png
     alt: " DB SyncBridge "
     title: "SyncBridge"
@@ -68,7 +67,6 @@ feature_qualitytest:
 {% include feature_row id="feature_knowyourmp" type="left" %}
 
 {% include feature_row id="desktop_intro" type="center" %}
-{% include feature_row id="feature_bridgeconnect" type="left" %}
 {% include feature_row id="feature_bridges" %}
 {% include feature_row %}
 
