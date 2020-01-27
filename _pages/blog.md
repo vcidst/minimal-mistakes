@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: archive
 classes: wide
 permalink: /blog/
 title: "Shailendra's Blog"
