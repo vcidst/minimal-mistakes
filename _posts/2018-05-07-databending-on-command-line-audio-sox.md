@@ -1,7 +1,7 @@
 ---
 title: "Databending images with a command line audio processing utlity"
 categories:
-  - Tutorial
+  - tutorial
 tags:
   - new-media-art
   - glitch

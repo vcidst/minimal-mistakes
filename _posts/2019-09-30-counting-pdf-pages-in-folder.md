@@ -1,9 +1,10 @@
 ---
 title: "How to count pages in multiple PDF files on Windows"
 categories:
-  - programming
+  - tutorial
 tags:
   - windows
+  - command-line
 author_profile: false
 ---
 

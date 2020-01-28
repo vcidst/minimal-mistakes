@@ -1,10 +1,10 @@
 ---
 title: "MATLAB Workshop"
 categories:
-  - Essays
+  - review
 tags:
-  - essay
-  - space
+  - matlab
+  - workshop
 ---
 
 My department recently helped organize a workshop on image processing using Matlab's Image Processing and Image Acquisition toolbox. Around 50 students paid 400 INR to attend this two day workshop. Our instructor for these two days was Mr. Saurabh Bhardwaj from TechieNest.

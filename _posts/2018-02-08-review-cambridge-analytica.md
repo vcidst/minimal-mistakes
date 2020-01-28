@@ -1,10 +1,10 @@
 ---
 title: "Thoughts on Cambridge Analytica"
 categories:
-  - Analysis
-tags:
-  - datascience
   - privacy
+tags:
+  - data-science
+  - politics
 ---
 
 Professor Jonathan Albright [writes a quick run-down](https://medium.com/tow-center/cambridge-analytica-the-geotargeting-and-emotional-data-mining-scripts-bcc3c428d77f) of the scripts found from a personal Github account of a data science intern at Cambridge Analytica (CA henceforth).

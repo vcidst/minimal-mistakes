@@ -1,7 +1,7 @@
 ---
 title: "Are my Ads listening to everything I say? No"
 categories:
-  - essay
+  - privacy
 tags:
   - explainer
   - AI

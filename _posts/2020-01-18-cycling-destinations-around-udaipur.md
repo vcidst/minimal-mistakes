@@ -1,9 +1,9 @@
 ---
 title: "Some less known Cycling Routes Around Udaipur"
 categories:
-  - cycling
-tags:
   - travel
+tags:
+  - cycling
 author_profile: false
 excerpt: "Udaipur, also called the city of lakes, offers some great escapes away from the bustle of traffic into the lap of aravalis. I share some routes I've enjoyed in the hills"
 header:

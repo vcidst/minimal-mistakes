@@ -1,10 +1,10 @@
 ---
 title: "Blanket Ban on Internet for Two Days in all of Rajasthan to Stop Cheating"
 categories:
-  - public policy
+  - public-policy
 tags:
   - campaign
-  - digital rights
+  - digital-rights
 ---
 
 Rajasthan is witnessing an action that is unprecedented in the history of a democracy anywhere in this world. Rajasthan officials are enforcing a two-day statewide internet ban with arbitrary geographical boundaries. The reason for this being to deter cheating at the Rajasthan State Constable Examination.

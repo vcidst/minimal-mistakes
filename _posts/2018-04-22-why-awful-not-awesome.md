@@ -1,7 +1,7 @@
 ---
 title: "Why does not awful mean full of awe?"
 categories:
-  - Essays
+  - linguistics
 tags:
   - linguistics
   - history

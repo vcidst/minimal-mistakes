@@ -4,9 +4,9 @@ header:
   image: images/solar-system-logarithmic.jpg
   caption: "Illustration credit: [**Schiller Institute**](http://newparadigm.schillerinstitute.com/our-campaign/sde/)"
 categories:
-  - Essays
+  - space
 tags:
-  - essay
+  - voyager
   - space
 excerpt: "Voyager 1 space probe was launched in 1977 since then it is headed outwards of the solar system. Next year marks 50th aniversary of Voyager launch, it is yet to leave the solar system."
 ---

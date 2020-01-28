@@ -1,9 +1,9 @@
 ---
 title: "Probably Not An Alien Megastructure"
 categories:
-  - Essays
+  - space
 tags:
-  - essay
+  - incomplete
   - space
 ---
 

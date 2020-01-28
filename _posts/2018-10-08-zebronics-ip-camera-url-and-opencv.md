@@ -1,7 +1,7 @@
 ---
 title: "Zebronics CCTV Or IP Camera RTSP URL and OpenCV"
 categories:
-  - info
+  - tutorial
 tags:
   - cctv
   - opencv

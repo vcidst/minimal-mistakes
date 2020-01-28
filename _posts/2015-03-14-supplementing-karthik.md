@@ -1,10 +1,10 @@
 ---
 title: "Exploring ggplot2 with Karthik Ram's Talk"
 categories:
-  - Essays
+  - tutorial
 tags:
-  - essay
-  - space
+  - data-science
+  - ggplot
 ---
 
 I have lately been learning a couple of tools for data science. After hearing about ggplot2, I came across Karthik Ram's talk about **Data Visualization with R & ggplot2**. It's an excellent talk to introduce yourself to ggplot2. This post will discuss the solutions to the exercises in the talk. Karthik is an ecologist at UC Berkeley and this talk was presented at an R seminar for Integrative Biology students.
