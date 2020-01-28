@@ -69,11 +69,10 @@ feature_qualitytest:
 electronics_intro: 
   - excerpt: '# Electronics and Embedded Engineering'
 feature_machines:
-  - image_path: /images/sample-image-2.png
+  - image_path: /images/sample-image-2.jpg
     title: "Revese Engineering an Analog Devices Board Driver"
     excerpt: "My client had a demo board from Analog Devices that worked only with a specialized software with no API. I traced the USB commands sent from the Driver to the board for essential functions like handshake, Power On, Begin/Stop Transmission. These traces were then used to make an API for the board. This required learning about the USB3 Spec, LibUSB (C Library) and PyUSB for replaying the traces"
-  - image_path: /images/sample-image-3.png
-    alt: " One Line Drawings "
+  - image_path: /images/sample-image-3.jpg
     title: "One Line Drawings Drawbot"
     excerpt: "A drawing robot with no microcontrollers but only two Servo Motors. This was an experimental design to simplify onboard electronics. The Servo Motors can be plugged in to any device with a headphone jack which plays an audio file. The audio contains drawing instructions encoded into two PWM waves -- one for each motor"
 design_intro: 
