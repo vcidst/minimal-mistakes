@@ -26,10 +26,10 @@ feature_knowyourmp:
     btn_label: "Open Know Your MP"
     btn_class: "btn--primary"
 feature_devops:
-  - image_path: /images/sample-image-4.jpg
+  - image_path: /images/sample-image-3.jpg
     title: "Estate Management Systems"
     excerpt: "Led development of a Web Application Ecosystem currently used by a Fortune 50 Company. It is used to manage a company town of more than 15,000 residents. These web applications are being used to manage Guest Houses, Residential Maintenance Requests, Inventory of Department and all Township Buildings, Quarter Allotment, and Residential Bill Generation. Built with Windows, Apache, SQL Server and PHP Stack using Bootstrap for Frontend"
-  - image_path: /images/sample-image-3.jpg
+  - image_path: /images/sample-image-5.jpg
     title: Interactive Voice Response (IVR) Systems
     excerpt: "I have more than 2 years of experience in managing IVR and Internet Telephony based SaaS Business. My key responsibilities included System Administration and DevOps on a Windows, Apache, SQL, PHP Stack"
 desktop_intro: 
@@ -42,7 +42,7 @@ feature_bridges:
     alt: " DB SyncBridge "
     title: "SyncBridge"
     excerpt: "A background service to push new transactiosn at a Weighbridge to an API. Built with C#.NET"
-  - image_path: /images/sample-image-5.jpg
+  - image_path: /images/sample-image-7.jpg
     alt: " Serial-To-File "
     title: "Serial-To-File"
     excerpt: "A console application that reads weight from serial communication based WeighBridge Controllers and overwrites it in a file. It adapts to all the string formats used across manufacturers. Built with C#.NET"
@@ -62,17 +62,17 @@ feature_row:
 ml_intro: 
   - excerpt: '# Machine Learning and Computer Vision'
 feature_qualitytest:
-  - image_path: /images/sample-image-4.jpg
+  - image_path: /images/sample-image-6.jpg
     alt: " Quality Testing "
     title: "Machine Vision based LCD/LED Quality Testing"
     excerpt: "A software toolkit to perform automated visual inspection on displays based on LED or LCD using a camera. We've defined multiple tests that can be used to check for soldering issues, dead pixels and uneven contrast/brightness problems right on the assembly line. Built with C#.NET and OpenCV"
 electronics_intro: 
   - excerpt: '# Electronics and Embedded Engineering'
 feature_machines:
-  - image_path: /images/sample-image-2.jpg
+  - image_path: /images/sample-image-5.jpg
     title: "Revese Engineering an Analog Devices SDP-H1"
     excerpt: "My client had an [evalauation board from Analog Devices](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/eval-sdp-h1.html#eb-documentation) used for low-cost evaluation of ADI components. I wrote an API for this board so that we can gather data collected by it, I collected transferred packets In and Out of the board with USB Sniffer. These traces were then used to make an API for the board. This required learning about the USB3 Spec, LibUSB (C Library) and PyUSB for replaying the traces"
-  - image_path: /images/sample-image-3.jpg
+  - image_path: /images/sample-image-2.jpg
     title: "One Line Drawings Drawbot"
     excerpt: "A drawing robot with no microcontrollers but only two Servo Motors. This was an experimental design to simplify onboard electronics. The Servo Motors can be plugged in to any device with a headphone jack which plays an audio file. The audio contains drawing instructions encoded into two PWM waves -- one for each motor"
 design_intro: 

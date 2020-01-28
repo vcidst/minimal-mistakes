@@ -1,6 +1,6 @@
 ---
 title: "Shailendra's Blog"
 permalink: /blog/
-layout: posts
+layout: archive
 author_profile: true
 ---
