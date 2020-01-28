@@ -28,8 +28,8 @@ feature_knowyourmp:
 feature_devops:
   - image_path: /images/sample-image-4.jpg
     title: "Estate Management Systems"
-    excerpt: "I have led development of a Web Application Ecosystem currently used by a leading Fortune 50 Company to manage a company town of more than 15,000 residents. It involves mulitple web applications that are being used to manage Guest Houses, Residential Maintenance Requests, Inventory of Department and all Township Buildings, Quarter Allotment, and Residential Bill Generation. All of them are built with a custom PHP Framework powered by Microsoft SQL Server on intranet based Windows Servers"
-  - image_path: /image/sample-image-3.jpg
+    excerpt: "Led development of a Web Application Ecosystem currently used by a Fortune 50 Company. It is used to manage a company town of more than 15,000 residents. It involves mulitple web applications that are being used to manage Guest Houses, Residential Maintenance Requests, Inventory of Department and all Township Buildings, Quarter Allotment, and Residential Bill Generation. All of them are built with a custom PHP Framework powered by Microsoft SQL Server on intranet based Windows Servers"
+  - image_path: /images/sample-image-3.jpg
     title: IVR Systems
     excerpt: "I have more than 2 years of experience in managing IVR and Internet Telephony based SaaS Business. My key responsibilities included System Administration and DevOps on a Windows, Apache, SQL, PHP Stack"
 desktop_intro: 
