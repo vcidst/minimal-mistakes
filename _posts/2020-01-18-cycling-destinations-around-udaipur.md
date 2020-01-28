@@ -37,6 +37,8 @@ The route offers 5 lakes (Pichola, Fateh Sagar, Badi, Chota Madar and Bada Madar
 ### Dei Mata
 ##### 55 km
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A short clip from our exploratory ride through the Aravali Forests in Udaipur <a href="https://t.co/3RR4t6swEB">pic.twitter.com/3RR4t6swEB</a></p>&mdash; e^(i*(zi)) = +1 (@ziscore) <a href="https://twitter.com/ziscore/status/1203985659565768706?ref_src=twsrc%5Etfw">December 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 South of Udaipur has a dense forest cover in the form of Kevra Forest. The route begins from the State Highway from Udaipur to Salumbar/Jaisamand and with a 150m descent and then a sharp turn from Oda to Babarmala Pink Marble Mines. This isn't a paved path and required us to walk a little in the forest to reach the village of Dei Mata. Dei Mata village is named after a temple of the same name with a hot spring(!) pond. The village is connected to a National Highway which will take you back to Udaipur
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2919146950/embed/4d43888b3a6f8230ce82997eb08778e581682072'></iframe>
@@ -50,6 +52,8 @@ Barwasan and Madarda lakes are situated north of the National Highway connecting
 
 ### Jarga Temple
 ##### 85 km (started from Iswal)
+
+{% include figure image_path="/images/cycling-jarga.jpg" caption="The Persian Wheel, also known as रहट, are of no use anymore because of the dwindled water levels" %}
 
 We started in the from our homes around 4 AM on a cold winter night. We parked our car and started the ride from Iswal towards Kumbhalgarh. Lots of cycling tour companies include cycling tours to Kumbhalgarh however we turned towards Jarga Temple somewhere in the route. Most of my cycling is approximately knowing what might lay ahead and then making wrong turns. Jarga Temple is one of the highest points in Rajasthan at close to 1100m, I think there are two temples located on the either side of the summit that are at an altitude of 900m themselves.
 
