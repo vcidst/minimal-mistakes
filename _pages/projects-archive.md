@@ -25,11 +25,17 @@ feature_knowyourmp:
     url: "knowYourMP"
     btn_label: "Open Know Your MP"
     btn_class: "btn--primary"
+feature_devops:
+  - image_path: /images/sample-image-4.jpg
+    title: "Estate Management Systems"
+    excerpt: "I have led development of a Web Application Ecosystem currently used by a leading Fortune 50 Company to manage a company town of more than 15,000 residents. It involves mulitple web applications that are being used to manage Guest Houses, Residential Maintenance Requests, Inventory of Department and all Township Buildings, Quarter Allotment, and Residential Bill Generation. All of them are built with a custom PHP Framework powered by Microsoft SQL Server on intranet based Windows Servers"
+  - image_path: /image/sample-image-3.jpg
+    title: IVR Systems
+    excerpt: "I have more than 2 years of experience in managing IVR and Internet Telephony based SaaS Business. My key responsibilities included System Administration and DevOps on a Windows, Apache, SQL, PHP Stack"
 desktop_intro: 
   - excerpt: '# Desktop and Console Applications'
 feature_bridges:
   - image_path: /images/project-bridgeconnect.png
-    alt: " Know Your MP "
     title: "BridgeConnect"
     excerpt: "A simple no-nonsense ERP solution for Public Weighbridges. The application is written in C#.NET with frontend made in WPF and uses an SQLite database"
   - image_path: /images/project-syncbridge.png
@@ -60,6 +66,16 @@ feature_qualitytest:
     alt: " Quality Testing "
     title: "Machine Vision based LCD/LED Quality Testing"
     excerpt: "A software toolkit to perform automated visual inspection on displays based on LED or LCD using a camera. We've defined multiple tests that can be used to check for soldering issues, dead pixels and uneven contrast/brightness problems right on the assembly line. Built with C#.NET and OpenCV"
+electronics_intro: 
+  - excerpt: '# Electronics and Embedded Engineering'
+feature_machines:
+  - image_path: /images/sample-image-2.png
+    title: "Revese Engineering an Analog Devices Board Driver"
+    excerpt: "My client had a demo board from Analog Devices that worked only with a specialized software with no API. I traced the USB commands sent from the Driver to the board for essential functions like handshake, Power On, Begin/Stop Transmission. These traces were then used to make an API for the board. This required learning about the USB3 Spec, LibUSB (C Library) and PyUSB for replaying the traces"
+  - image_path: /images/sample-image-3.png
+    alt: " One Line Drawings "
+    title: "One Line Drawings Drawbot"
+    excerpt: "A drawing robot with no microcontrollers but only two Servo Motors. This was an experimental design to simplify onboard electronics. The Servo Motors can be plugged in to any device with a headphone jack which plays an audio file. The audio contains drawing instructions encoded into two PWM waves -- one for each motor"
 design_intro: 
   - excerpt: '# Design and Typography'
 feature_design:
@@ -89,6 +105,7 @@ feature_design:
 {% include feature_row id="web_intro" type="center" %}
 {% include feature_row id="feature_kolam" type="left" %}
 {% include feature_row id="feature_knowyourmp" type="left" %}
+{% include feature_row id="feature_devops" %}
 
 {% include feature_row id="ml_intro" type="center" %}
 {% include feature_row id="feature_qualitytest" type="left" %}
@@ -96,6 +113,9 @@ feature_design:
 {% include feature_row id="desktop_intro" type="center" %}
 {% include feature_row %}
 {% include feature_row id="feature_bridges" %}
+
+{% include feature_row id="electronics_intro" type="center" %}
+{% include feature_row id="feature_machines" %}
 
 {% include feature_row id="design_intro" type="center" %}
 {% include feature_row id="feature_design" %}

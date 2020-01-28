@@ -13,7 +13,7 @@ projects:
     image_caption: 
     alt: " Projects "
     title: "Things I've Made"
-    excerpt: "Web applications, Destop & Console Applications, Machine Vision tools, Electronics and a brief stint with Graphic Design. Take a look at everyting I've made"
+    excerpt: "Web applications, Desktop & Console Applications, Machine Vision tools, Electronics and a brief stint with Graphic Design. Take a look at everyting I've made"
     url: "/projects/"
     btn_label: "Show me your Projects"
     btn_class: "btn--info"
