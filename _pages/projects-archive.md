@@ -28,9 +28,9 @@ feature_knowyourmp:
 feature_devops:
   - image_path: /images/sample-image-4.jpg
     title: "Estate Management Systems"
-    excerpt: "Led development of a Web Application Ecosystem currently used by a Fortune 50 Company. It is used to manage a company town of more than 15,000 residents. It involves mulitple web applications that are being used to manage Guest Houses, Residential Maintenance Requests, Inventory of Department and all Township Buildings, Quarter Allotment, and Residential Bill Generation. All of them are built with a custom PHP Framework powered by Microsoft SQL Server on intranet based Windows Servers"
+    excerpt: "Led development of a Web Application Ecosystem currently used by a Fortune 50 Company. It is used to manage a company town of more than 15,000 residents. These web applications are being used to manage Guest Houses, Residential Maintenance Requests, Inventory of Department and all Township Buildings, Quarter Allotment, and Residential Bill Generation. Built with Windows, Apache, SQL Server and PHP Stack using Bootstrap for Frontend"
   - image_path: /images/sample-image-3.jpg
-    title: IVR Systems
+    title: Interactive Voice Response (IVR) Systems
     excerpt: "I have more than 2 years of experience in managing IVR and Internet Telephony based SaaS Business. My key responsibilities included System Administration and DevOps on a Windows, Apache, SQL, PHP Stack"
 desktop_intro: 
   - excerpt: '# Desktop and Console Applications'
@@ -70,21 +70,14 @@ electronics_intro:
   - excerpt: '# Electronics and Embedded Engineering'
 feature_machines:
   - image_path: /images/sample-image-2.jpg
-    title: "Revese Engineering an Analog Devices Board Driver"
-    excerpt: "My client had a demo board from Analog Devices that worked only with a specialized software with no API. I traced the USB commands sent from the Driver to the board for essential functions like handshake, Power On, Begin/Stop Transmission. These traces were then used to make an API for the board. This required learning about the USB3 Spec, LibUSB (C Library) and PyUSB for replaying the traces"
+    title: "Revese Engineering an Analog Devices SDP-H1"
+    excerpt: "My client had an [evalauation board from Analog Devices](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/eval-sdp-h1.html#eb-documentation) used for low-cost evaluation of ADI components. I wrote an API for this board so that we can gather data collected by it, I collected transferred packets In and Out of the board with USB Sniffer. These traces were then used to make an API for the board. This required learning about the USB3 Spec, LibUSB (C Library) and PyUSB for replaying the traces"
   - image_path: /images/sample-image-3.jpg
     title: "One Line Drawings Drawbot"
     excerpt: "A drawing robot with no microcontrollers but only two Servo Motors. This was an experimental design to simplify onboard electronics. The Servo Motors can be plugged in to any device with a headphone jack which plays an audio file. The audio contains drawing instructions encoded into two PWM waves -- one for each motor"
 design_intro: 
   - excerpt: '# Design and Typography'
 feature_design:
-  - image_path: /images/project-stelms.png
-    alt: " Brand for Stelms "
-    title: "Brand Identity for Stelms"
-    excerpt: "Logo, Letterpads, Business Card and other creatives for a friend's company"
-    url: "https://www.behance.net/gallery/44077297/Stelms"
-    btn_label: "Project on Behance"
-    btn_class: "btn--primary"
   - image_path: /images/project-newsflash.png
     alt: " NewsFlash Layout "
     title: "Layout Design for NewsFlash"
@@ -98,6 +91,13 @@ feature_design:
     excerpt: "Released multiple magazines during my tenure at JMAG over a period of two years"
     url: "https://issuu.com/j-mag/docs/jmag-7th-edition"
     btn_label: "Browse JMag"
+    btn_class: "btn--primary"
+  - image_path: /images/project-stelms.png
+    alt: " Brand for Stelms "
+    title: "Brand Identity for Stelms"
+    excerpt: "Logo, Letterpads, Business Card and other creatives for a friend's company"
+    url: "https://www.behance.net/gallery/44077297/Stelms"
+    btn_label: "Project on Behance"
     btn_class: "btn--primary"
 ---
 
