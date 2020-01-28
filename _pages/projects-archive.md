@@ -10,7 +10,7 @@ header:
 web_intro: 
   - excerpt: '# Web Applications'
 feature_kolam:
-  - image_path: /images/project-kolam.png
+  - image_path: /images/project-kolam.gif
     alt: " Kolam Generator "
     title: "Generative Kolam"
     excerpt: "Kolam is a traditional drawing that is part of multiple cultures in South East Asia. They can be seen outside of homes on particular occassions and all of these Kolams look different. The Kolam Generator uses symmetry & rules of a Kolam and P5.js to keep making Kolams until you close the tab"
