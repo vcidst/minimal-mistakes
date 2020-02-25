@@ -1,11 +1,10 @@
 ---
 title: "How do the Lok Sabha Elections effect Sensex? w/ code"
 categories:
-  - data science
+  - analysis
 tags:
   - finance
-  - analysis
-  - programming
+  - data-science
 excerpt: "Addressing questions about elections and BSE Sensex with data and learning analysis with nuances of R programming language"
 ---
 
