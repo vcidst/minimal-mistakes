@@ -13,7 +13,7 @@ header:
 excerpt: "I'm a Software Engineer with 4+ years of experience making web applications, machine learning tools and data processing applications with remote teams"
 intro: 
   - title: "Project Categories"
-  - excerpt: '[Full Stack Development](#full-stack-development-and-operations){: .btn .btn--info} [Creative Technology](#creative-technologies){: .btn .btn--info} [Machine Learning](#machine-learning-and-computer-vision){: .btn .btn--info} [Desktop and Data Apps](#desktop-and-console-applications){: .btn .btn--info} [Electronics](#electronics-and-embedded-engineering){: .btn .btn--info} [Design](#design-and-typography){: .btn .btn--info}'
+  - excerpt: '[Full Stack Development](#full-stack-development-and-operations){: .btn .btn--info} [Creative Technology](#creative-technologies){: .btn .btn--info} [Machine Learning](#machine-learning-and-computer-vision){: .btn .btn--info} [Desktop and Data Apps](#desktop-and-console-applications){: .btn .btn--info} [Design](#design-and-typography){: .btn .btn--info}'
 web_intro: 
   - excerpt: '# Creative Technologies'
 feature_kolam:
