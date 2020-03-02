@@ -5,6 +5,13 @@ permalink: /projects/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
+  overlay_image: /images/lovejoy.jpg
+excerpt: "I'm a Software Engineer with 4+ years of experience making web applications, machine learning tools, electronics prototyping and data processing applications with remote teams. Contact me at `x@shailendra.me`"
+intro: 
+  - excerpt: 'My diverse skillset makes me a promising candidate for Full Stack Development, Data Engineering, Product Management and ML Engineering Roles'
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
   overlay_image: /images/banner-sunsetatdwarka.jpg
   caption: "Sunset at India's Westernmost Sunset Point at Dwarka, Gujarat"
 web_intro: 
@@ -101,6 +108,7 @@ feature_design:
     btn_class: "btn--primary"
 ---
 
+{% include feature_row id="intro" type="center" %}
 {% include feature_row id="web_intro" type="center" %}
 {% include feature_row id="feature_kolam" type="left" %}
 {% include feature_row id="feature_knowyourmp" type="left" %}
