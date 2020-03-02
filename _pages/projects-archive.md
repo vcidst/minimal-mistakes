@@ -9,9 +9,10 @@ header:
   caption: "Sunset at India's Westernmost Sunset Point at Dwarka, Gujarat"
 excerpt: "I'm a Software Engineer with 4+ years of experience making web applications, machine learning tools, electronics prototyping and data processing applications with remote teams. Contact me at `x@shailendra.me`"
 intro: 
-  - excerpt: '## [Web Applications](#web-applications), [Machine Learning and Computer Vision](#machine-learning-and-computer-vision), [Desktop and Console Applications](#desktop-and-console-applications), [Electronics](#electronics-and-embedded-engineering), [Design and Typography](#design-and-typography)'
+  - title: "Project Categories"
+  - excerpt: '[Full Stack Development](#full-stack-development-and-operations) and Operations, [Creative Technology](#creative-technologies) Demos, [Machine Learning](#machine-learning-and-computer-vision) and Computer Vision, [Desktop and Console](#desktop-and-console-applications) Applications, [Electronics](#electronics-and-embedded-engineering) Prototyping, [Design and Typography](#design-and-typography)'
 web_intro: 
-  - excerpt: '# Web Applications'
+  - excerpt: '# Creative Technologies'
 feature_kolam:
   - image_path: /images/project-kolam.gif
     alt: " Kolam Generator "
@@ -28,6 +29,8 @@ feature_knowyourmp:
     url: "knowYourMP"
     btn_label: "Open Know Your MP"
     btn_class: "btn--primary"
+devops_intro: 
+  - excerpt: '# Full Stack Development and Operations'
 feature_devops:
   - image_path: /images/sample-image-3.jpg
     title: "Estate Management Systems"
@@ -105,10 +108,14 @@ feature_design:
 ---
 
 {% include feature_row id="intro" type="center" %}
+
+{% include feature_row id="devops_intro" type="center" %}
+{% include feature_row id="feature_devops" %}
+
 {% include feature_row id="web_intro" type="center" %}
 {% include feature_row id="feature_kolam" type="left" %}
 {% include feature_row id="feature_knowyourmp" type="left" %}
-{% include feature_row id="feature_devops" %}
+
 
 {% include feature_row id="ml_intro" type="center" %}
 {% include feature_row id="feature_qualitytest" type="left" %}
