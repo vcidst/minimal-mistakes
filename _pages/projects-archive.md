@@ -9,7 +9,7 @@ header:
   caption: "Sunset at India's Westernmost Sunset Point at Dwarka, Gujarat"
 excerpt: "I'm a Software Engineer with 4+ years of experience making web applications, machine learning tools, electronics prototyping and data processing applications with remote teams. Contact me at `x@shailendra.me`"
 intro: 
-  - excerpt: '[Web Applications](#web-applications) | [Machine Learning and Computer Vision](#machine-learning-and-computer-vision) | [Desktop and Console Applications](#desktop-and-console-applications) | [Electronics](#electronics-and-embedded-engineering) | [Design and Typography](#design-and-typography)'
+  - excerpt: '## [Web Applications](#web-applications), [Machine Learning and Computer Vision](#machine-learning-and-computer-vision), [Desktop and Console Applications](#desktop-and-console-applications), [Electronics](#electronics-and-embedded-engineering), [Design and Typography](#design-and-typography)'
 web_intro: 
   - excerpt: '# Web Applications'
 feature_kolam:
