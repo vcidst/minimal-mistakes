@@ -35,10 +35,10 @@ feature_knowyourmp:
 feature_machines:
   - image_path: /images/sample-image-5.jpg
     title: "Revese Engineering Firmware"
-    excerpt: "My client had an [evalauation board from Analog Devices](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/eval-sdp-h1.html#eb-documentation) used for low-cost evaluation of ADI components. I wrote an API for this board so that we can gather data collected by it, I collected transferred packets In and Out of the board with USB Sniffer. These traces were then used to make an API for the board. This required learning about the USB3 Spec, `LibUSB` (C Library) and `PyUSB` for replaying the traces"
+    excerpt: "We had an [evalauation board from Analog Devices](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/eval-sdp-h1.html#eb-documentation) used for low-cost evaluation of ADI components. I wrote an API for this board so that we can gather data collected by it, I collected transferred packets In and Out of the board with USB Sniffer. These traces were then used to make an API for the board. This required learning about the USB3 Spec, `LibUSB` (C Library) and `PyUSB` for replaying the traces"
   - image_path: /images/sample-image-2.jpg
     title: "One-Line-Drawings Drawbot"
-    excerpt: "A drawing robot with no microcontrollers(!) but only two Servo Motors. This was an experimental design to simplify onboard electronics. The Servo Motors can be plugged in to any device with a headphone jack which plays an audio file. The audio contains drawing instructions encoded into two PWM waves -- one for each motor"
+    excerpt: "A drawing robot with no microcontroller(!) but only two Servo Motors. This was an experimental design to simplify onboard electronics. The Servo Motors can be plugged in to any device with a headphone jack which plays an audio file. The audio contains drawing instructions encoded into two PWM waves -- one for each motor"
 devops_intro: 
   - excerpt: '# Full Stack Development and Operations'
 feature_devops:
