@@ -6,8 +6,11 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /images/banner-sunsetatdwarka.jpg
+  actions:
+    - label: "Contact Me"
+      url: "/contact/"
   caption: "Sunset at India's Westernmost Sunset Point at Dwarka, Gujarat"
-excerpt: "I'm a Software Engineer with 4+ years of experience making web applications, machine learning tools, electronics prototyping and data processing applications with remote teams"
+excerpt: "I'm a Software Engineer with 4+ years of experience making web applications, machine learning tools and data processing applications with remote teams"
 intro: 
   - title: "Project Categories"
   - excerpt: '[Full Stack Development](#full-stack-development-and-operations){: .btn .btn--info} [Creative Technology](#creative-technologies){: .btn .btn--info} [Machine Learning](#machine-learning-and-computer-vision){: .btn .btn--info} [Desktop and Data Apps](#desktop-and-console-applications){: .btn .btn--info} [Electronics](#electronics-and-embedded-engineering){: .btn .btn--info} [Design](#design-and-typography){: .btn .btn--info}'
