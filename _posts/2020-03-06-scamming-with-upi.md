@@ -59,4 +59,4 @@ upi://pay?pa=armyaccountcheck@myicici&pn=MANJU%20DEVI&mc=0000&cu=INR&am=20000.00
 
 The scammer has now seems to have deleted both the QR code images he sent on WhatsApp. I reported the profile on OLX and, to their credit, they promptly took the profile down. Mr Scammer has his WhatsApp Profile Name set to Vijay. He also changed his picture to this one, is this supposed to humanize him?
 
-![](/images/scan_attempt_whatsappprofile.jpg)
+![](/images/scam_attempt_whatsappprofile.jpg)
