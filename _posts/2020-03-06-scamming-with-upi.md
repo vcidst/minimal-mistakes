@@ -8,7 +8,7 @@ tags:
 author_profile: false
 ---
 
-Sorry for the clickbait, I only made ₹5(¢6). This is the story of how someone tried to scam me. It wouldn't have worked anyway because I don't have the kind of money he was trying to scam me for. 🤫
+Sorry for the clickbait, I only made ₹5(¢6). This is the story of how someone tried to scam me. It wouldn't have worked anyway because I the scam amount in this bank account. 🤫
 
 🚨 Stay safe from UPI Scammers! 🚨   
 🚨 Don't Scan QR Codes with an expectation to receive any payment! 🚨
