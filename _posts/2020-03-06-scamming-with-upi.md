@@ -8,7 +8,7 @@ tags:
 author_profile: false
 ---
 
-🚨 Stay safe from UPI Scammers! 🚨
+🚨 Stay safe from UPI Scammers! 🚨   
 🚨 Don't Scan QR Codes with an expectation to receive any payment! 🚨
 
 I posted an ad about my laptop earlier today around the Web. I got a message a while back that a person is interested. He calls me and insists upon paying by UPI (I gave an option for cash as well).
