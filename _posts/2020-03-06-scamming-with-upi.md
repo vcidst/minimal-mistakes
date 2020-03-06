@@ -1,5 +1,5 @@
 ---
-title: "Someone Just Tried To Scam Me after a Classified Ad"
+title: "UPI Scammer Accidentally Ends Up Giving Me 💸"
 categories:
   - scams
 tags:
@@ -7,6 +7,8 @@ tags:
   - infosec
 author_profile: false
 ---
+
+Sorry for the clickbait, I only made ₹5(¢6). This is the story of how someone tried to scam me. It wouldn't have worked anyway because I don't have the kind of money he was trying to scam me for. 🤫
 
 🚨 Stay safe from UPI Scammers! 🚨   
 🚨 Don't Scan QR Codes with an expectation to receive any payment! 🚨
